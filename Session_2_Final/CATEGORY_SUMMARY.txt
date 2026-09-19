@@ -1,0 +1,46 @@
+সিকিউরিটি টুলস - ক্যাটাগরি সারসংক্ষেপ
+============================================================
+
+ক্যাটাগরি | সংখ্যা
+------------------------------------------------------------
+1. Other / Uncategorized Security Tools: 116
+2. Scanner / Vulnerability Assessment: 81
+3. Malware Analysis / Sandbox / Forensics / Reverse Engineering: 79
+4. Recon / OSINT: 74
+5. Payload / Exploit Frameworks: 73
+6. RAT / C2 / Botnet: 57
+7. Network / WiFi: 40
+8. Phishing / Initial Access: 33
+9. Android: 28
+10. Defense Evasion / AV-EDR Bypass: 26
+11. AI-Powered Tools: 23
+12. Stealer / Keylogger / Grabber: 22
+13. General Hacking Tools: 22
+14. Web Exploitation Payloads (XSS/SQLi/SSRF/etc.): 19
+15. Browser Automation / Scraping: 19
+16. Password / Credential Attacks: 18
+17. Data Breach / Leak Search: 16
+18. Privilege Escalation: 11
+19. Red Team Tools: 10
+20. DDoS / Bombing Tools: 10
+21. CMS / Framework Identification: 9
+22. Ransomware: 8
+23. Anonymity / Tor / VPN: 8
+24. CTF Tools: 8
+25. PHP Web Tools: 7
+26. USB / Hardware Tools: 7
+27. Web Shell / Reverse Shell: 6
+28. Mobile / Phone Hacking: 6
+29. Radio Hacking: 5
+30. Offensive AI: 4
+31. Email Utilities: 3
+32. Cloud Security: 2
+33. Payload Delivery: 2
+34. Password Spray: 1
+35. QR Code / Steganography: 1
+
+============================================================
+মোট ক্যাটাগরি: 35
+মোট লিংক: 854
+সফলভাবে ক্যাটাগরাইজড: 738 (86.4%)
+অস্পষ্ট: 116 (13.6%)

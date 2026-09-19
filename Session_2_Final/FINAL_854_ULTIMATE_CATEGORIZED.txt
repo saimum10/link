@@ -1,0 +1,1015 @@
+================================================================================
+সিকিউরিটি টুলস - সম্পূর্ণ ক্যাটাগরাইজড লিংক সংগ্রহ (TXT FORMAT)
+================================================================================
+
+চূড়ান্ত স্ট্যাটিস্টিক্স:
+--------------------------------------------------------------------------------
+মোট ইউনিক লিংক: 854
+মোট ক্যাটাগরি: 35
+সফলভাবে ক্যাটাগরাইজড: 738 (86.4%)
+অস্পষ্ট/জেনেরিক নাম: 116 (13.6%)
+
+ক্যাটাগরাইজেশন পদ্ধতি:
+--------------------------------------------------------------------------------
+1. GitHub README ও description থেকে স্বয়ংক্রিয় parsing
+2. Repository নাম থেকে pattern matching
+3. ডকুমেন্ট সেকশন হেডার বিশ্লেষণ
+4. Web search via 25+ targeted queries (120+ repositories)
+5. Aggressive keyword-based matching algorithm
+
+================================================================================
+
+
+ANDROID (28)
+--------------------------------------------------------------------------------
+1. https://github.com/Android1500/AndroidFaker
+2. https://github.com/BlackSnufkin/GeckoDroid
+3. https://github.com/CanciuCostin/android-spyware
+4. https://github.com/DouglasFreshHabian/AndroidForensics
+5. https://github.com/Genymobile/scrcpy
+6. https://github.com/Kirozaku/Andrax-Termux
+7. https://github.com/MobSF/Mobile-Security-Framework-MobSF
+8. https://github.com/UltraSina/androidReverse
+9. https://github.com/adityatelange/frida-ui
+10. https://github.com/androidmalware/OpenClaw_Termux
+11. https://github.com/awesome-android-root/awesome-android-root
+12. https://github.com/frida/frida
+13. https://github.com/funsecurity/apk_binder_script
+14. https://github.com/hexsecteam/HacknDroid
+15. https://github.com/kefir500/apk-editor-studio
+16. https://github.com/kil0bit-kb/scrcpy-gui
+17. https://github.com/mayukh4/linux-android
+18. https://github.com/mkcs121/APK-Easy-Tool
+19. https://github.com/psychohackers/PhantomDroid
+20. https://github.com/rafosw/APKdevastate
+21. https://github.com/rafosw/APKdevastate-cli
+22. https://github.com/sundaysec/Android-Exploits
+23. https://github.com/utsanjan/Tsunami-Bomber-Android
+24. https://github.com/ynsmroztas/AndroHunter
+25. https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo
+26. https://play.google.com/store/apps/details?id=com.overlook.android.fing
+27. https://play.google.com/store/apps/details?id=net.wigle.wigleandroid
+28. https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp
+
+
+RAT / C2 / BOTNET (57)
+--------------------------------------------------------------------------------
+1. https://github.com/0xbitx/DEDSEC_BOTNET
+2. https://github.com/0xyg3n/claude-c2
+3. https://github.com/28Zaaky/PulseC2
+4. https://github.com/28Zaaky/khaos-c2
+5. https://github.com/5arth4k-X/RedVect0r
+6. https://github.com/BC-SECURITY/Empire
+7. https://github.com/Cobalt-Strike/bof-vs
+8. https://github.com/Cobalt-Strike/bof_template
+9. https://github.com/Cryakl/Ultimate-RAT-Collection
+10. https://github.com/DeimosC2/DeimosC2
+11. https://github.com/EricEsquivel/CobaltStrike-Linux-Beacon
+12. https://github.com/GeorgePatsias/ScareCrow-CobaltStrike
+13. https://github.com/HavocFramework/Havoc
+14. https://github.com/MaorSabag/Adaptix-StealthPalace
+15. https://github.com/MarkNaderKamel/CerberusX-Framework
+16. https://github.com/Mazzy-Stars/lain_c2
+17. https://github.com/NixWasHere/NebulaC2
+18. https://github.com/Noir0x63/Command-Control-Forum
+19. https://github.com/P0142/LDAP-Bof-Collection
+20. https://github.com/PhoenixC2/PhoenixC2
+21. https://github.com/SeroSkiid/SeroC2
+22. https://github.com/Souhardya/UBoat
+23. https://github.com/Trapwithme/Trap-Panel
+24. https://github.com/TrustedSec/ZeroLogon-BOF
+25. https://github.com/Viralmaniar/Powershell-RAT
+26. https://github.com/Waremderme/GateSentinel-C2-RemoteTool
+27. https://github.com/WhiteeRabbit/Triton_RAT
+28. https://github.com/amtzespinosa/wp-backdoor
+29. https://github.com/exfil0/RevBot
+30. https://github.com/f3di006/vxRat
+31. https://github.com/fadelegend/Titan-C2
+32. https://github.com/flashnuke/pass-generator
+33. https://github.com/hrtywhy/BOF-CobaltStrike
+34. https://github.com/im-hanzou/Arbitrium-RAT
+35. https://github.com/isPique/Net-Strike
+36. https://github.com/jakobfriedl/tgt-monitor-bof
+37. https://github.com/joaovarelas/GitRunner-C2
+38. https://github.com/josephrw12/cortex-c2
+39. https://github.com/layyyfn/RedTiger-Tools
+40. https://github.com/projectdiscovery/katana
+41. https://github.com/quantumcore/paradoxiaRAT
+42. https://github.com/qwqdanchun/DcRat
+43. https://github.com/r00t-tsai/TaoRAT
+44. https://github.com/ricardojoserf/BOF_Files
+45. https://github.com/ryanq47/CS-EXTC2-ICMP
+46. https://github.com/s0ld13rr/claude-code-backdoor
+47. https://github.com/soheil-01/coff_loader
+48. https://github.com/steve-m/kalibrate-rtl
+49. https://github.com/umutcamliyurt/PingRAT
+50. https://github.com/zalexdev/strykerapp
+51. https://lnkd.in/eeZGbYMs
+52. https://lnkd.in/efmh2t3g
+53. https://lnkd.in/egAPa8gY
+54. https://lnkd.in/eqSJUDji
+55. https://lnkd.in/ewN9Nday
+56. https://lnkd.in/gEFp2iym
+57. https://lnkd.in/gnCGwfWk
+
+
+STEALER / KEYLOGGER / GRABBER (22)
+--------------------------------------------------------------------------------
+1. https://github.com/BlackSnufkin/Maverick
+2. https://github.com/Blank-c/Umbral-Stealer
+3. https://github.com/DarkSpaceSecurity/SpyAI
+4. https://github.com/Geeoon/DNS-Tunnel-Keylogger
+5. https://github.com/KingOfTheNOPs/cookie-monster
+6. https://github.com/Maldev-Academy/DumpBrowserSecrets
+7. https://github.com/N0rz3/Phunter
+8. https://github.com/TaxMachine/Grabbers-Deobfuscator
+9. https://github.com/avatar198/Doofi-stealer-discord-FUD
+10. https://github.com/dnSpyEx/dnSpy
+11. https://github.com/drcrypterdotru/warworm-stealer
+12. https://github.com/grab/grab
+13. https://github.com/hackirby/skuld
+14. https://github.com/harkerbyte/spyder
+15. https://github.com/iss4cf0ng/DuplexSpyCS
+16. https://github.com/p3hv/Storm-Stealer
+17. https://github.com/ricardojoserf/TrickDump
+18. https://github.com/rpp0/lora-dump
+19. https://github.com/saintdaddy/Vare-Stealer
+20. https://github.com/umutcamliyurt/Subhunter
+21. https://github.com/xpierroz/WhatsappStealer
+22. https://github.com/zh54321/SharePointDumper
+
+
+PAYLOAD / EXPLOIT FRAMEWORKS (73)
+--------------------------------------------------------------------------------
+1. github.com/payloadbox/xss-payload-list
+2. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection
+3. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection
+4. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection
+5. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal
+6. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
+7. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection
+8. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References
+9. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management
+10. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection
+11. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection
+12. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection
+13. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth
+14. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
+15. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
+16. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files
+17. github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection
+18. http://github.com/V1li/H4X-Tools
+19. http://www.xss-payloads.com/
+20. https://0day.today/
+21. https://cvexploits.io/
+22. https://github.com/BC-SECURITY/Starkiller
+23. https://github.com/D4Vinci/Dr0p1t-Framework
+24. https://github.com/Da7rkx0/PDF-EXPLOIT--Non-Silent
+25. https://github.com/FunnyWolf/Viper
+26. https://github.com/Ilias1988/payload-obfuscator
+27. https://github.com/Lavender-exe/BofCollection
+28. https://github.com/LongWayHomie/PolyEngine
+29. https://github.com/Lucifer1993/AngelSword
+30. https://github.com/Meltedd/VisualSploit
+31. https://github.com/N7WEra/BofAllTheThings
+32. https://github.com/NationalSecurityAgency/qgis-latlontools-plugin
+33. https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+34. https://github.com/Wanssss1/BOFs
+35. https://github.com/Xyntax/POC-T
+36. https://github.com/achuna33/MYExploit
+37. https://github.com/ccyl13/Payload-Generator
+38. https://github.com/joaoviictorti/rustbof
+39. https://github.com/kapla0011/KaplaStrike
+40. https://github.com/knownsec/pocsuite3
+41. https://github.com/nixawk/pentest-wiki/blob/master/3.Exploitation-Tools/Network-Exploitation/ports_number.md
+42. https://github.com/nsacyber/BitLocker-Guidance
+43. https://github.com/nsacyber/Blocking-Outdated-Web-Technologies
+44. https://github.com/nsacyber/Cyber-Challenge
+45. https://github.com/nsacyber/Detect-CVE-2017-15361-TPM
+46. https://github.com/nsacyber/GRASSMARLIN
+47. https://github.com/nsacyber/HTTP-Connectivity-Tester
+48. https://github.com/nsacyber/RandPassGenerator
+49. https://github.com/nsacyber/Windows-Secure-Host-Baseline
+50. https://github.com/nsacyber/paccor
+51. https://github.com/nsacyber/serial2pcap
+52. https://github.com/r00t-3xp10it/venom
+53. https://github.com/rapid7/metasploit-framework
+54. https://github.com/rust-memo/csrf-poc-generator
+55. https://github.com/ssooking/msfvenom-gui
+56. https://github.com/synacktiv/Livepyre
+57. https://github.com/terjanq/Tiny-XSS-Payloads
+58. https://github.com/threat9/routersploit
+59. https://github.com/tlsbollei/KittyLoader
+60. https://github.com/trustedsec/ELFLoader
+61. https://github.com/wetw0rk/sickle-pdk
+62. https://github.com/zerosum0x0/koadic
+63. https://gtfobins.github.io/
+64. https://lolbas-project.github.io/
+65. https://packetstormsecurity.com/
+66. https://shell-storm.org/shellcode/index.html
+67. https://sploitus.com/
+68. https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/
+69. https://vulmon.com/
+70. https://www.exploit-db.com/
+71. https://www.exploit-db.com/google-hacking-database/
+72. https://www.exploitalert.com/search-results.html
+73. https://www.rapid7.com/db/
+
+
+PAYLOAD DELIVERY (2)
+--------------------------------------------------------------------------------
+1. https://lnkd.in/eqecM7de
+2. https://lnkd.in/etCCYi8y
+
+
+WEB SHELL / REVERSE SHELL (6)
+--------------------------------------------------------------------------------
+1. https://github.com/Adrilaw/PhantomShell
+2. https://github.com/epotseluevskaya/ASPX_WebShell_COFFLoader
+3. https://github.com/hackerschoice/hackshell
+4. https://github.com/phantom-offensive/Phantom
+5. https://github.com/sag-asab/Bypass-Webshell
+6. https://www.revshells.com/
+
+
+WEB EXPLOITATION PAYLOADS (XSS/SQLI/SSRF/ETC.) (19)
+--------------------------------------------------------------------------------
+1. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md
+2. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
+3. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md
+4. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md
+5. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md
+6. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
+7. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md
+8. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md
+9. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md
+10. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md
+11. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md
+12. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md
+13. github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md
+14. http://sniff.su/
+15. https://github.com/dr34mhacks/xssnow
+16. https://github.com/web-harvest/webmagic
+17. https://github.com/whoami-juruo/InjectTools
+18. https://t.co/9PVwrFlILp
+19. https://t.co/SNuJiSXXSt
+
+
+SCANNER / VULNERABILITY ASSESSMENT (81)
+--------------------------------------------------------------------------------
+1. http://whatweb.bugscaner.com/look/
+2. http://www.openvas.org/
+3. https://en.iguru.gr/odigos-fuzzing-gia-tin-evresi-kenon-asfaleias-burpsuite/
+4. https://github.com/0xKayala/NucleiScanner
+5. https://github.com/20142995/Goby
+6. https://github.com/4dogs-cn/TXPortMap
+7. https://github.com/4ra1n/super-xray
+8. https://github.com/ADScanPro/adscan
+9. https://github.com/Abhinandan-Khurana/Network_Scanner
+10. https://github.com/Arachni/arachni
+11. https://github.com/Btr4k/bugbounty-agent
+12. https://github.com/EarToEarOak/RTLSDR-Scanner
+13. https://github.com/EnableSecurity/wafw00f
+14. https://github.com/Goqi/Banli
+15. https://github.com/H4CKTHOR/thor-suiteMonsterEdition
+16. https://github.com/Jakkxbt/CobraAudit
+17. https://github.com/JohnTroony/Blisqy
+18. https://github.com/Lucifer1993/struts-scan
+19. https://github.com/Neohapsis/bbqsql
+20. https://github.com/OJ/gobuster
+21. https://github.com/PAPAMICA/waf-checker
+22. https://github.com/RUB-NDS/Terrapin-Scanner
+23. https://github.com/RustScan/RustScan
+24. https://github.com/Tuhinshubhra/RED_HAWK
+25. https://github.com/albinowax/ActiveScanPlusPlus
+26. https://github.com/andresriancho/w3af/
+27. https://github.com/aquasecurity/trivy
+28. https://github.com/archerysec/archerysec
+29. https://github.com/awnumar/blind-sql-bitshifting
+30. https://github.com/bwInfoSec/VulnerabilityHub
+31. https://github.com/chaitin/xray
+32. https://github.com/cisamu123/CyberEye
+33. https://github.com/codingo/NoSQLMap
+34. https://github.com/drcrypterdotru/sqlmap-skynet
+35. https://github.com/dtag-dev-sec/explo
+36. https://github.com/elddy/NimScan
+37. https://github.com/enkomio/Taipan
+38. https://github.com/eystsen/pentestlab
+39. https://github.com/ffuf/ffuf
+40. https://github.com/foryujian/yujianportscan
+41. https://github.com/future-architect/vuls
+42. https://github.com/gh1mau/laraSAST
+43. https://github.com/google/log4jscanner
+44. https://github.com/google/osv-scanner
+45. https://github.com/greenbone/gvm
+46. https://github.com/kracer127/SiteScan
+47. https://github.com/leviathan-framework/leviathan
+48. https://github.com/marco-lancini/goscan
+49. https://github.com/maurosoria/dirsearch
+50. https://github.com/michenriksen/aquatone
+51. https://github.com/n0ise9914/RdpChecker
+52. https://github.com/netwrix/pingcastle
+53. https://github.com/projectdiscovery/httpx
+54. https://github.com/projectdiscovery/naabu
+55. https://github.com/projectdiscovery/nuclei
+56. https://github.com/pwnfuzz/diffrays
+57. https://github.com/quay/clair
+58. https://github.com/r0oth3x49/ghauri
+59. https://github.com/redtoolskobe/scaninfo
+60. https://github.com/robertdavidgraham/masscan
+61. https://github.com/ron190/jsql-injection
+62. https://github.com/selimwdev/WAPTLab
+63. https://github.com/shuvonsec/claude-bug-bounty
+64. https://github.com/six2dez/burp-ai-agent
+65. https://github.com/sqlmapproject/sqlmap
+66. https://github.com/stamparm/DSSS
+67. https://github.com/sullo/nikto
+68. https://github.com/urbanadventurer/WhatWeb
+69. https://github.com/v-byte-cpu/sx
+70. https://github.com/veo/vscan
+71. https://github.com/wapiti-scanner/wapiti
+72. https://github.com/yashab-cyber/nmap-ai
+73. https://github.com/zan8in/afrog
+74. https://github.com/zaproxy/zaproxy
+75. https://gobies.org/
+76. https://lnkd.in/gu5wxzf6
+77. https://nmap.org/
+78. https://play.google.com/store/apps/details?id=com.knabl.iotsecurityscanner
+79. https://play.google.com/store/apps/details?id=com.vulners
+80. https://portswigger.net/burp
+81. https://www.kitploit.com/2017/05/whitewidow-sql-vulnerability-scanner.html
+
+
+RECON / OSINT (74)
+--------------------------------------------------------------------------------
+1. http://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/
+2. https://dnsdumpster.com/
+3. https://en.hacks.gr/pos-na-xrisimopoiisete-proxychain/
+4. https://github.com/0x6rss/chat-apps-osint/
+5. https://github.com/3nock/SpiderSuite
+6. https://github.com/Astrosp/Awesome-OSINT-List
+7. https://github.com/BullsEye0/shodan-eye
+8. https://github.com/C3n7ral051nt4g3ncy/HandleHawk
+9. https://github.com/CScorza/OSINT-FORENSICS-MOBILE
+10. https://github.com/HackShiv/OneDorkForAll/tree/main/dorks/1M_dork
+11. https://github.com/Jieyab89/OSINT-Cheat-sheet?tab=readme-ov-file
+12. https://github.com/Lissy93/web-check
+13. https://github.com/Proviesec/google-dorks
+14. https://github.com/SOsintOps/Exploratores
+15. https://github.com/SOsintOps/claudii-exploratores
+16. https://github.com/SubGlitch1/OSRipper
+17. https://github.com/TakSec/google-dorks-bug-bounty
+18. https://github.com/TypeError/domained
+19. https://github.com/adnane-X-tebbaa/Katana
+20. https://github.com/aquasecurity/traceeshark
+21. https://github.com/danielmiessler/SecLists
+22. https://github.com/dereeqw/BlackBerryC2
+23. https://github.com/egetones/talon
+24. https://github.com/fawadqureshi007/Black
+25. https://github.com/hueristiq/xurlfind3r
+26. https://github.com/jasonxtn/Argus
+27. https://github.com/jasperan/whatsapp-osint
+28. https://github.com/k8scout/k8scout
+29. https://github.com/kpcyrd/sn0int
+30. https://github.com/lanmaster53/recon-ng
+31. https://github.com/luijait/IP-Info-Geolocalization
+32. https://github.com/luis22d/ZeroTrace-Panel
+33. https://github.com/m3n0sd0n4ld/GooFuzz
+34. https://github.com/megadose/holehe
+35. https://github.com/mishakorzik/UserFinder
+36. https://github.com/mohamedxk9tb/BladeRecon
+37. https://github.com/mxrch/GHunt
+38. https://github.com/opsdisk/pagodo
+39. https://github.com/osintambition/Social-Media-OSINT-Tools-Collection
+40. https://github.com/osintph/darkweb-scanner
+41. https://github.com/owasp-amass/amass
+42. https://github.com/projectdiscovery/subfinder
+43. https://github.com/qeeqbox/social-analyzer
+44. https://github.com/rohitcoder/hawk-eye
+45. https://github.com/scf13/ghostscan
+46. https://github.com/sherlock-project/sherlock
+47. https://github.com/smicallef/spiderfoot
+48. https://github.com/soxoj/maigret
+49. https://github.com/sundowndev/phoneinfoga
+50. https://github.com/thelinuxchoice/blackeye
+51. https://github.com/tomnomnom/assetfinder
+52. https://github.com/tracelabs/tlosint-live
+53. https://hunter.io/
+54. https://intelx.io/
+55. https://lnkd.in/e7V569N5
+56. https://lnkd.in/ebbcj6Rm
+57. https://lnkd.in/ebvRfBNy
+58. https://lnkd.in/edwaXFjS
+59. https://lnkd.in/g3DeG6YT
+60. https://phonebook.cz/
+61. https://play.google.com/store/apps/details?id=com.iam.googledork
+62. https://play.google.com/store/apps/details?id=io.shodan.app
+63. https://reacher.email/
+64. https://rocketreach.co/
+65. https://search.censys.io
+66. https://synapsint.com/
+67. https://thatsthem.com/reverse-email-lookup
+68. https://tools.emailhippo.com/
+69. https://verify-email.org/
+70. https://www.email-format.com/
+71. https://www.emailsherlock.com/
+72. https://www.melissa.com/v2/lookups/emailcheck/email/
+73. https://www.shodan.io
+74. https://www.voilanorbert.com/
+
+
+PHISHING / INITIAL ACCESS (33)
+--------------------------------------------------------------------------------
+1. https://gitHub.com/evildevill/emptyphish
+2. https://github.com/0xDanielLopez/phishing_kits
+3. https://github.com/Adrilaw/MedusaPhisher
+4. https://github.com/Akshay-Arjun/69phisher
+5. https://github.com/An0nUD4Y/shellphish
+6. https://github.com/Cyber-Dioxide/CyberPhish
+7. https://github.com/DarkSecDevelopers/HiddenEye-Legacy
+8. https://github.com/HiddenPhish/HiddenPhish
+9. https://github.com/KasRoudra/PyPhisher
+10. https://github.com/Raikia/FiercePhish/
+11. https://github.com/UndeadSec/SocialFish
+12. https://github.com/Viralmaniar/I-See-You
+13. https://github.com/davenisc/thief_raccoon
+14. https://github.com/drcrypterdotru/clickfix-builder
+15. https://github.com/gophish/gophish
+16. https://github.com/hangetzzu/saycheese
+17. https://github.com/htr-tech/zphisher
+18. https://github.com/iinc0gnit0/BlackPhish
+19. https://github.com/kgretzky/evilginx
+20. https://github.com/pentestgeek/phishing-frenzy
+21. https://github.com/rsmusllp/king-phisher
+22. https://github.com/savio-code/ghost-phisher
+23. https://github.com/seanthegeek/phishforall
+24. https://github.com/technowlogy/spookphish
+25. https://github.com/thelinuxchoice/PhishX
+26. https://github.com/thewhiteh4t/seeker
+27. https://github.com/trustedsec/social-engineer-toolkit
+28. https://github.com/wifiphisher/wifiphisher
+29. https://lnkd.in/eJwCx-Ga
+30. https://lnkd.in/eRDPvwUg
+31. https://lnkd.in/ea26dfNg
+32. https://lnkd.in/eds-dR5C
+33. https://lnkd.in/gcaxV6fR
+
+
+PASSWORD / CREDENTIAL ATTACKS (18)
+--------------------------------------------------------------------------------
+1. https://github.com/M4xSec/K-OTP-X
+2. https://github.com/Net-hunter121/API-Wordlist
+3. https://github.com/Zard2007/Gmail-Hack
+4. https://github.com/hmaverickadams/DeHashed-API-Tool
+5. https://github.com/matricali/cbrutekrag
+6. https://github.com/ob2configmaker/SilverBullet
+7. https://github.com/saurabhwadekar/pycrack
+8. https://github.com/z0m31en7/deauthalyzer
+9. https://lnkd.in/e3CTez5A
+10. https://lnkd.in/eA28n9FT
+11. https://lnkd.in/eBSAPz5z
+12. https://lnkd.in/eJx5Ugu5
+13. https://lnkd.in/eeb5b6Tz
+14. https://lnkd.in/etEGfvJK
+15. https://lnkd.in/gHgcbjgV
+16. https://lnkd.in/gZVuQYiv
+17. https://lnkd.in/gtMEDVuS
+18. https://lnkd.in/guWj4TYv
+
+
+PRIVILEGE ESCALATION (11)
+--------------------------------------------------------------------------------
+1. https://github.com/BeichenDream/SharpToken
+2. https://github.com/badsectorlabs/sccm-http-looter
+3. https://github.com/daem0nc0re/PrivFu/tree/main/PowerOfTcb
+4. https://github.com/dazzyddos/PrivHound
+5. https://github.com/incursi0n/GodPotatoBOF
+6. https://github.com/klezVirus/DriverJack
+7. https://lnkd.in/eWA66akh
+8. https://lnkd.in/eZfYMSMX
+9. https://lnkd.in/eq53PXcJ
+10. https://lnkd.in/etR2Pe_n
+11. https://lnkd.in/gjziyG8q
+
+
+DEFENSE EVASION / AV-EDR BYPASS (26)
+--------------------------------------------------------------------------------
+1. https://github.com/0xNinjaCyclone/hellMaker
+2. https://github.com/888private888/PredatorCrypter
+3. https://github.com/Amaop/Rust-Crypter
+4. https://github.com/An0nUD4Y/FullBypass
+5. https://github.com/AndyFul/Run-By-Smartscreen
+6. https://github.com/Cerbersec/KillDefenderBOF
+7. https://github.com/Cur10s1tyByt3/GhostlyHollowingViaTamperedSyscalls
+8. https://github.com/FLOCK4H/Freeway
+9. https://github.com/JoasASantos/SysWhispers4
+10. https://github.com/LNodesL/EspanaKrypt
+11. https://github.com/LNodesL/Sonofa-Byte-Crypting-Program
+12. https://github.com/TierZeroSecurity/edr_blocker
+13. https://github.com/UnamSanctam/SilentETHMiner
+14. https://github.com/j3h4ck/PoisonKiller
+15. https://github.com/klezVirus/SilentMoonwalk
+16. https://github.com/matro7sh/BypassAV
+17. https://github.com/mrT4ntr4/NtWarden
+18. https://github.com/proxifly/free-proxy-list
+19. https://github.com/sarperavci/CloudflareBypassForScraping
+20. https://github.com/vincentcox/bypass-firewalls-by-DNS-history
+21. https://github.com/x64dbg/ScyllaHide
+22. https://github.com/zero2504/EDR-GhostLocker
+23. https://lnkd.in/e223PbqZ
+24. https://lnkd.in/e8g8zYFT
+25. https://lnkd.in/ef5wCD4y
+26. https://lnkd.in/gquyGFm5
+
+
+MALWARE ANALYSIS / SANDBOX / FORENSICS / REVERSE ENGINEERING (79)
+--------------------------------------------------------------------------------
+1. Abuse.ch
+2. abuseipdb.com
+3. any.run
+4. bazaar.abuse.ch
+5. cuckoosandbox.org
+6. docguard.io
+7. filesec.io/
+8. ghidra-sre.org
+9. https://github.com/APKLab/APKLab
+10. https://github.com/Adityaraj6/VPLE
+11. https://github.com/AkaTorich/HTTSDebugger
+12. https://github.com/CYB3RMX/MalwareAnalysis101
+13. https://github.com/Cleafy/Malfixer
+14. https://github.com/LaurieWired/GhidraMCP
+15. https://github.com/MISP/MISP
+16. https://github.com/MLX15/StormKitty
+17. https://github.com/MartinxMax/BloodCat
+18. https://github.com/NationalSecurityAgency/ghidra
+19. https://github.com/Pyran1/MalwareDatabase
+20. https://github.com/Ragnt/AngryOxide
+21. https://github.com/RamadhanAmizudin/malware
+22. https://github.com/VirusTotal/yara
+23. https://github.com/angr/angr-management
+24. https://github.com/arxsys/dff
+25. https://github.com/cristianzsh/forensictools
+26. https://github.com/endermanch/MalwareDatabase
+27. https://github.com/fxrstor/MalwareRepository
+28. https://github.com/geeksniper/reverse-engineering-toolkit
+29. https://github.com/google/rekall
+30. https://github.com/ivre/ivre
+31. https://github.com/joeavanzato/RetrievIR
+32. https://github.com/jonaslejon/malicious-pdf
+33. https://github.com/linx-systems/clamui
+34. https://github.com/m0n0ph1/Malware-Collection
+35. https://github.com/machine1337/pycrypt
+36. https://github.com/mvt-project/mvt
+37. https://github.com/redasm-dev/redasm
+38. https://github.com/rizinorg/cutter
+39. https://github.com/rizinorg/rizin
+40. https://github.com/scorelab/OpenMF
+41. https://github.com/to1018rose/A-large-collection-of-Trojan
+42. https://github.com/usestrix/strix
+43. https://github.com/weirdmachine64/GhidraGPT
+44. https://github.com/wtsxDev/reverse-engineering
+45. https://github.com/x64dbg/x64dbg
+46. https://github.com/zahidaz/jezail
+47. ipvoid.com
+48. lnkd.in/e4bkm5Eq
+49. lnkd.in/e6r4mGv5
+50. lnkd.in/eWA9MnMY
+51. lnkd.in/ejBt5R7C
+52. lnkd.in/eweERpju
+53. lnkd.in/g4qQGsHG
+54. lnkd.in/g7uWdC5q
+55. lnkd.in/gB2gDZUd
+56. lnkd.in/gPqzyB7K
+57. lnkd.in/gQZM_SJz
+58. lnkd.in/gTJJ9GiC
+59. lnkd.in/gTjru2RQ
+60. lnkd.in/gV4k5Gsw
+61. lnkd.in/gaRGY8kB
+62. lnkd.in/gdb3MQn2
+63. lnkd.in/ggTCTeAi
+64. lnkd.in/gjA-QqdX
+65. lnkd.in/gjYKbyge
+66. lnkd.in/gkZqkZrd
+67. lnkd.in/gnJ9BvFN
+68. lnkd.in/gt8iyHE5
+69. lnkd.in/gxV3PAnG
+70. lnkd.in/gyN_diCQ
+71. malwares.com
+72. procdot.com
+73. sslbl.abuse.ch
+74. tria.ge
+75. urlhaus.abuse.ch
+76. urlscan.io
+77. urlvoid.com
+78. vmray.com
+79. yaraify.abuse.ch
+
+
+NETWORK / WIFI (40)
+--------------------------------------------------------------------------------
+1. https://en.hacks.gr/odigos-wifi-hacking-me-to-wifite/
+2. https://github.com/BornToBeRoot/NETworkManager
+3. https://github.com/DnsChanger/dnsChanger-desktop
+4. https://github.com/DominikStyp/WPA-Attack
+5. https://github.com/IanHarvey/bluepy
+6. https://github.com/JiaoXianjun/BTLE
+7. https://github.com/Leo-Corporation/InternetTest
+8. https://github.com/MrAmirRezaie/MacChanger
+9. https://github.com/Nabil-Official/N-TRACE
+10. https://github.com/Squuv/WifiBF
+11. https://github.com/Travisun/Latest-Country-IP-List
+12. https://github.com/alipay/Owfuzz
+13. https://github.com/andreicscs/HoneyWire
+14. https://github.com/chunkingz/linsetmv1-2
+15. https://github.com/derv82/wifite
+16. https://github.com/esc0rtd3w/wifi-hacker
+17. https://github.com/ethicalhackeragnidhra/SigPloit-ss7
+18. https://github.com/evilsocket/nyx
+19. https://github.com/hash3liZer/WiFiBroot
+20. https://github.com/jgamblin/hackAPie
+21. https://github.com/jopohl/urh
+22. https://github.com/kennyn510/wpa2-wordlists
+23. https://github.com/krtzer/WPA2-Wireless-Network-LabVIEW-FPGA-Testing
+24. https://github.com/marceloaqno/loradiscovery
+25. https://github.com/mayermakes/sx127x-radio
+26. https://github.com/mehedishakeel/WiFi-Pentest-Kit
+27. https://github.com/microsoft/PyRIT
+28. https://github.com/pauloborges/bluemaho
+29. https://github.com/philcryer/wpa2own
+30. https://github.com/r-a-w/DriveShake
+31. https://github.com/securing/gattacker
+32. https://github.com/soxrok2212/PSKracker
+33. https://github.com/trycatchhcf/BLEAH
+34. https://github.com/virtualabs/btlejack
+35. https://github.com/wi-fi-analyzer/eaphammer
+36. https://github.com/xdavidhu/mitmAP
+37. https://github.com/zflemingg1/WiFi-Jammer
+38. https://play.google.com/store/apps/details?id=com.aconno.blesniffer
+39. https://play.google.com/store/apps/details?id=com.eakteam.networkmanager.free
+40. https://play.google.com/store/apps/details?id=com.tester.wpswpatester
+
+
+ANONYMITY / TOR / VPN (8)
+--------------------------------------------------------------------------------
+1. https://github.com/FDX100/Auto_Tor_IP_changer
+2. https://github.com/GouveaHeitor/nipe
+3. https://github.com/brainfuckSec/kalitorify
+4. https://github.com/pivpn/pivpn
+5. https://github.com/skizap/dos-over-tor
+6. https://onionscan.org/
+7. https://tails.boum.org/
+8. https://www.torproject.org/
+
+
+CLOUD SECURITY (2)
+--------------------------------------------------------------------------------
+1. https://github.com/m0rtem/CloudFail
+2. https://lnkd.in/ePHDeGZv
+
+
+AI-POWERED TOOLS (23)
+--------------------------------------------------------------------------------
+1. Deepl.ai
+2. Freedom.ai
+3. Passgan.ai
+4. Speechif.ai
+5. https://github.com/0xSteph/pentest-ai
+6. https://github.com/Armur-Ai/Pentest-Swarm-AI
+7. https://github.com/Bin-Huang/chatbox
+8. https://github.com/Mintplex-Labs/anything-llm
+9. https://github.com/REDMED-X/OperatorsKit
+10. https://github.com/SnailSploit/Claude-Red
+11. https://github.com/UbiquitousLearning/mllm
+12. https://github.com/Vali-98/ChatterUI
+13. https://github.com/a-ghorbani/pocketpal-ai
+14. https://github.com/bugbasesecurity/pentest-copilot
+15. https://github.com/guinmoon/LLMFarm
+16. https://github.com/ottosulin/awesome-ai-security
+17. https://github.com/pradumon14/Trinetra
+18. https://github.com/requie/AI-Red-Teaming-Guide
+19. https://github.com/securelayer7/PROMPTPurify
+20. https://github.com/splx-ai/agentic-radar
+21. https://jan.ai
+22. https://lmstudio.ai/
+23. https://www.nomic.ai/gpt4all
+
+
+BROWSER AUTOMATION / SCRAPING (19)
+--------------------------------------------------------------------------------
+1. https://github.com/BuilderIO/gpt-crawler
+2. https://github.com/MechanicalSoup/MechanicalSoup
+3. https://github.com/NaiboWang/EasySpider
+4. https://github.com/ScrapeGraphAI/Scrapegraph-ai
+5. https://github.com/ScrapeHero/google-search-results-serp-api
+6. https://github.com/anicel/crawl-js
+7. https://github.com/apify/crawlee
+8. https://github.com/chm0dx/creepyCrawler
+9. https://github.com/crawler-commons/crawler-commons
+10. https://github.com/gocolly/colly
+11. https://github.com/jmcarp/robobrowser
+12. https://github.com/microsoft/playwright
+13. https://github.com/psf/requests-html
+14. https://github.com/puppeteer/puppeteer
+15. https://github.com/python-scraping/parse-hub
+16. https://github.com/scrapinghub/splash
+17. https://github.com/scrapy/scrapy
+18. https://github.com/thomas-park/webcrawler
+19. https://github.com/yasserg/crawler4j
+
+
+DATA BREACH / LEAK SEARCH (16)
+--------------------------------------------------------------------------------
+1. Leak.sx
+2. breachalarm.com
+3. cryptome.org
+4. globaleaks.org
+5. haveibeenpwned.com
+6. https://github.com/JoelGMSec/LeakSearch
+7. https://github.com/thehappydinoa/DarkSearch
+8. https://github.com/vlall/Darksearch
+9. intelx.io
+10. leakcheck.io
+11. leakpeek.com
+12. monitor.firefox.com
+13. scatteredsecrets.com
+14. snusbase.com
+15. weleakinfo.to
+16. wikileaks.org
+
+
+CMS / FRAMEWORK IDENTIFICATION (9)
+--------------------------------------------------------------------------------
+1. http://www.yunsee.cn/
+2. https://github.com/0x727/FingerprintHub
+3. https://github.com/0x727/ObserverWard
+4. https://github.com/AliasIO/Wappalyzer
+5. https://github.com/EdgeSecurityTeam/EHole
+6. https://github.com/HA71/WhatCMS
+7. https://github.com/Tuhinshubhra/CMSeeK
+8. https://whatcms.org/
+9. https://www.whatruns.com/
+
+
+CTF TOOLS (8)
+--------------------------------------------------------------------------------
+1. https://github.com/0x00-0x00/shellpop
+2. https://github.com/C2SP/wycheproof
+3. https://github.com/Ganapati/RsaCtfTool
+4. https://github.com/apsdehal/awesome-ctf
+5. https://github.com/ciphey/ciphey
+6. https://github.com/digininja/DVWA
+7. https://github.com/zardus/ctf-tools
+8. https://trailofbits.github.io/ctf/
+
+
+USB / HARDWARE TOOLS (7)
+--------------------------------------------------------------------------------
+1. https://github.com/FabioBaroni/Was
+2. https://github.com/MinhasKamal/TrojanCockroach
+3. https://github.com/abrar360/BeefPurloin
+4. https://github.com/gamblur/Steal-User-identity-through-USB
+5. https://github.com/grant273/phone-nab
+6. https://github.com/thecmdguy/Ducky
+7. https://github.com/xyse/AutoHackingUsb
+
+
+DDOS / BOMBING TOOLS (10)
+--------------------------------------------------------------------------------
+1. https://github.com/Bhai4You/otpbomber
+2. https://github.com/LMNx9-JOHNY/D-DOS-Attack-24
+3. https://github.com/LMNx9-JOHNY/E-MAIL_BOMBER
+4. https://github.com/LimerBoy/Impulse
+5. https://github.com/Priyans0830m/DDOS-BOMBER
+6. https://github.com/R00tS3c/DDOS-RootSec
+7. https://github.com/alexbieber/RevengeBomber2.0
+8. https://github.com/jatinkalwar/m-bomber2.O
+9. https://github.com/palahsu/MBomb
+10. https://github.com/un1cum/Beast_Bomber
+
+
+RANSOMWARE (8)
+--------------------------------------------------------------------------------
+1. https://github.com/BushidoUK/Ransomware-Tool-Matrix
+2. https://github.com/Cryakl/Ransomware-Database
+3. https://github.com/Err0r-ICA/Ransomware
+4. https://github.com/Gheris-579/RANSOMEWARE
+5. https://github.com/goliate/hidden-tear
+6. https://github.com/graniet/fsociety-ransomware-MrRobot
+7. https://github.com/im-hanzou/Ransomware
+8. https://github.com/machine1337/fudransome
+
+
+MOBILE / PHONE HACKING (6)
+--------------------------------------------------------------------------------
+1. https://github.com/4mritGiri/NumberTracker
+2. https://github.com/AzeemIdrisi/PhoneSploit-Pro
+3. https://github.com/JoaquimLey/sms-parsing
+4. https://github.com/chrisk44/Hijacker
+5. https://github.com/cryst4linqq/TurkoRat-TELEGRAM
+6. https://github.com/cyberboyplas/WhSms
+
+
+OFFENSIVE AI (4)
+--------------------------------------------------------------------------------
+1. https://github.com/0x4m4/hexstrike-ai
+2. https://github.com/CyberSecurityUP/NeuroSploit
+3. https://github.com/CyberSecurityUP/Offensive-AI-Agent-Prompts
+4. https://github.com/Ed1s0nZ/CyberStrikeAI
+
+
+RADIO HACKING (5)
+--------------------------------------------------------------------------------
+1. https://github.com/cn0xroot/rfsec-toolkit
+2. https://github.com/martinmarinov/TempestSDR
+3. https://github.com/pothosware/SoapySDR
+4. https://github.com/ptrkrysik/gr-gsm
+5. https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
+
+
+PHP WEB TOOLS (7)
+--------------------------------------------------------------------------------
+1. https://github.com/Deadshot0x7/Webspoilt
+2. https://github.com/openclaw/openclaw
+3. https://hackforums.net/showthread.php?tid=6276795
+4. https://hackforums.net/showthread.php?tid=6286334
+5. https://hackforums.net/showthread.php?tid=6288583
+6. https://hackforums.net/showthread.php?tid=6298815
+7. https://hackforums.net/showthread.php?tid=6310936
+
+
+GENERAL HACKING TOOLS (22)
+--------------------------------------------------------------------------------
+1. https://github.com/0xBugatti/oscpdb
+2. https://github.com/CarterPerez-dev/Cybersecurity-Projects
+3. https://github.com/DhanushNehru/Ultimate-Cybersecurity-Resources
+4. https://github.com/Ilias1988/Hacking-Cheatsheets
+5. https://github.com/InspectorDidi/Hacking-Books
+6. https://github.com/LasCC/HackTools
+7. https://github.com/MHaggis/NEBULA
+8. https://github.com/Rhacknarok/hacksguard
+9. https://github.com/Syslifters/sysreptor
+10. https://github.com/ZeroTrace404/RedReaper
+11. https://github.com/afsh4ck/HackLabs
+12. https://github.com/arch3rPro/Pentest-Windows
+13. https://github.com/aw-junaid/Hacking-Tools
+14. https://github.com/cdxiaodong/AI-Cloud-pentest-framework
+15. https://github.com/chunkingz/linsetmv
+16. https://github.com/itwizardo/hackcode
+17. https://github.com/mentebinaria/retoolkit
+18. https://github.com/mishakorzik/AllHackingTools
+19. https://github.com/mizazhaider-ceh/Security-Books
+20. https://github.com/open-source-intelligence/osi-tools
+21. https://github.com/sooryathejas/METATRON
+22. https://github.com/sudosuraj/Bounty-VPS
+
+
+EMAIL UTILITIES (3)
+--------------------------------------------------------------------------------
+1. https://github.com/Billionmail/BillionMail
+2. https://github.com/v4d1/SpoofThatMail
+3. https://www.experte.com/email-finder
+
+
+PASSWORD SPRAY (1)
+--------------------------------------------------------------------------------
+1. https://github.com/ricardojoserf/AutoPtT
+
+
+QR CODE / STEGANOGRAPHY (1)
+--------------------------------------------------------------------------------
+1. https://github.com/cryptedwolf/ohmyqr
+
+
+RED TEAM TOOLS (10)
+--------------------------------------------------------------------------------
+1. https://github.com/Hacking-Notes/RedTeam
+2. https://github.com/PentesterFlow/OffensiveSET
+3. https://github.com/RoseSecurity/Red-Teaming-TTPs
+4. https://github.com/S3N4T0R-0X0/BEAR
+5. https://github.com/ZeroMemoryEx/Chaos-Rootkit
+6. https://github.com/hydrapwk/hydrapwk
+7. https://github.com/infosecn1nja/Red-Teaming-Toolkit
+8. https://github.com/kmdn-ch/phantom-ethical-redteam
+9. https://github.com/loucifer-x/PROSECUTOR
+10. https://github.com/senderend/ghostsurf
+
+
+OTHER / UNCATEGORIZED SECURITY TOOLS (116)
+--------------------------------------------------------------------------------
+1. github.com/guillaumemeyer/watermarks-remover
+2. http://finger.tidesec.com/
+3. http://gqrx.dk/
+4. http://pwnwiki.io/
+5. http://www.skymem.info/
+6. https://0ops.sjtu.edu.cn/
+7. https://anymailfinder.com/
+8. https://autopsy.com
+9. https://bugcrowd.com/crowdstream
+10. https://capturetheflag.withgoogle.com/
+11. https://codereview.training/
+12. https://ctf.hack.lu/
+13. https://ctf.hacker101.com/
+14. https://ctf.hitcon.org/
+15. https://ctflearn.com/
+16. https://ctftime.org/
+17. https://cyberdefenders.org/
+18. https://deftlinux.net
+19. https://dragonsector.pl/
+20. https://en.iguru.gr/anakalypse-sql-injection-enan-web-server/
+21. https://en.iguru.gr/odigos-epitheseon-ddos-goldeneye/
+22. https://f-droid.org/packages/com.termux/
+23. https://fp.shuziguanxing.com/
+24. https://gist.github.com/Cur10s1tyByt3/6567c5b8df11ec9ec1219693c7bd
+25. https://gist.github.com/Cur10s1tyByt3/c5a43c1e3f8b04ebda879b8dbc7fdc15
+26. https://gist.github.com/Cur10s1tyByt3/d23715fcb9f430536f9fa0244d84dfba
+27. https://gist.github.com/Cur10s1tyByt3/dc588ed536b79301417fa34719db7400
+28. https://github.com/0x0be/yesitsme
+29. https://github.com/AI-secure/UDora
+30. https://github.com/ALW1EZ/Arkhota
+31. https://github.com/ANDRVV/gapcast
+32. https://github.com/Alishahryar1/free-claude-code
+33. https://github.com/Ap0dexMe0/CodeSentience
+34. https://github.com/BlackSnufkin/LitterBox
+35. https://github.com/CesarAyalaDev/RAASNet
+36. https://github.com/Gaurav-Gosain/tuios
+37. https://github.com/HackUnderway/SearchPhone/
+38. https://github.com/Hackplayers/evil-winrm/tree/ai
+39. https://github.com/KeygraphHQ/shannon
+40. https://github.com/LNodesL/12-C-Programs-to-Run-EXE
+41. https://github.com/LNodesL/CryptDemo
+42. https://github.com/Lora-net/lora_gateway/tree/master/libloragw/inc
+43. https://github.com/MaorSabag/NaX
+44. https://github.com/ProcessusT/LoadThat-PEandAssembly
+45. https://github.com/Red-Hex-Consulting/Ankou
+46. https://github.com/STARK-404/FB-HACK/
+47. https://github.com/SamNet-dev/paqctl
+48. https://github.com/ServiceNow/DoomArena
+49. https://github.com/Sheikh-Nightshader/MetaXtractor/
+50. https://github.com/Sheikh-Nightshader/Pathfinder/
+51. https://github.com/SubtitleEdit/subtitleedit
+52. https://github.com/T-Dynamos/WAFA
+53. https://github.com/Tomiwa-Ot/moukthar
+54. https://github.com/appwrite/appwrite
+55. https://github.com/csicar/Ning
+56. https://github.com/darthnorse/dockmon/
+57. https://github.com/digitalbitbox/pylef
+58. https://github.com/go-rod/rod
+59. https://github.com/honojs/hono
+60. https://github.com/immich-app/immich
+61. https://github.com/jenting/clickfarmer
+62. https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/
+63. https://github.com/machine1337/mafiahacks
+64. https://github.com/medusajs/medusa
+65. https://github.com/milla-jovovich/mempalace
+66. https://github.com/novuhq/novu
+67. https://github.com/ollama/ollama
+68. https://github.com/oopsoplm/adpulse
+69. https://github.com/psyray/oasis
+70. https://github.com/public-apis/public-apis
+71. https://github.com/qsecure-labs/DeadMatter
+72. https://github.com/rainfantry/22nd-survey-division
+73. https://github.com/razexgod/44CALIBER
+74. https://github.com/redcaller/voice-goat
+75. https://github.com/samogod/tornado
+76. https://github.com/semaphoreci/benchmarks
+77. https://github.com/simplifaisoul/?fbclid=IwY2xjawT8DilwZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHv2axkWz61T8u2dZqEG9Jc5zigz8sazK3JoDwQMDRaZTYyQ0mANkyvFlPSfd_aem_ejWs2iQwbIenUNac_IJllg
+78. https://github.com/strapi/strapi
+79. https://github.com/wez/wezterm
+80. https://github.com/x86byte/RE-MA-Roadmap
+81. https://greatscottgadgets.com/hackrf/
+82. https://gtfoargs.github.io/
+83. https://hackerone.com/hacktivity
+84. https://hackingthe.cloud/
+85. https://holidayhackchallenge.com/
+86. https://malwarewatch.org/projects.html
+87. https://nautilus.institute/
+88. https://overthewire.org/wargames/
+89. https://picoctf.org/
+90. https://plaidctf.com/
+91. https://play.google.com/store/apps/details?id=com.cafelabs.curlme
+92. https://play.google.com/store/apps/details?id=com.pentestkit
+93. https://play.google.com/store/apps/details?id=com.themausoft.wpsapp
+94. https://ructf.org/
+95. https://store.nethunter.com/en/packages/whid.usb.injector/
+96. https://store.nethunter.com/packages/com.mayank.rucky/
+97. https://strykerdefence.com/
+98. https://t.co/9pBW07i6Ha
+99. https://t.co/TdCJlvQTnO
+100. https://tomba.io/
+101. https://www.findemails.com/
+102. https://www.gnuradio.org/
+103. https://www.hackthissite.org/
+104. https://www.loldrivers.io/
+105. https://www.nuand.com/
+106. https://www.proxmox.com/
+107. https://www.root-me.org/
+108. https://www.youtube.com/@LiveOverflow
+109. https://www.youtube.com/@ippsec
+110. https://www.zimperium.com/zanti-mobile-penetration-testing/
+111. lnkd.in/dDa8XgiM
+112. lnkd.in/dRVzVz87
+113. lnkd.in/eMjdTB2t
+114. lnkd.in/eSNMn7au
+115. lnkd.in/gNqxtn4d
+116. lnkd.in/gZc8FYpU
+

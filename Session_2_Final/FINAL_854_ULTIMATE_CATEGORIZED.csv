@@ -1,0 +1,855 @@
+#,Category,Link,Repository Name
+1,Malware Analysis / Sandbox / Forensics / Reverse Engineering,Abuse.ch,Abuse.ch
+2,AI-Powered Tools,Deepl.ai,Deepl.ai
+3,AI-Powered Tools,Freedom.ai,Freedom.ai
+4,Data Breach / Leak Search,Leak.sx,Leak.sx
+5,AI-Powered Tools,Passgan.ai,Passgan.ai
+6,AI-Powered Tools,Speechif.ai,Speechif.ai
+7,Malware Analysis / Sandbox / Forensics / Reverse Engineering,abuseipdb.com,abuseipdb.com
+8,Malware Analysis / Sandbox / Forensics / Reverse Engineering,any.run,any.run
+9,Malware Analysis / Sandbox / Forensics / Reverse Engineering,bazaar.abuse.ch,bazaar.abuse.ch
+10,Data Breach / Leak Search,breachalarm.com,breachalarm.com
+11,Data Breach / Leak Search,cryptome.org,cryptome.org
+12,Malware Analysis / Sandbox / Forensics / Reverse Engineering,cuckoosandbox.org,cuckoosandbox.org
+13,Malware Analysis / Sandbox / Forensics / Reverse Engineering,docguard.io,docguard.io
+14,Malware Analysis / Sandbox / Forensics / Reverse Engineering,filesec.io/,
+15,Malware Analysis / Sandbox / Forensics / Reverse Engineering,ghidra-sre.org,ghidra-sre.org
+16,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md,content-injection.md
+17,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md,crlf.md
+18,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md,crypto.md
+19,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md,csv-injection.md
+20,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md,lfi.md
+21,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md,open-redirect.md
+22,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md,rce.md
+23,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md,sqli.md
+24,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md,ssrf.md
+25,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md,template-injection.md
+26,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md,xslt.md
+27,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md,xss.md
+28,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md,xxe.md
+29,Other / Uncategorized Security Tools,github.com/guillaumemeyer/watermarks-remover,watermarks-remover
+30,Payload / Exploit Frameworks,github.com/payloadbox/xss-payload-list,xss-payload-list
+31,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection,CSRF%20Injection
+32,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection,CSV%20Injection
+33,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection,Command%20Injection
+34,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal,Directory%20Traversal
+35,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion,File%20Inclusion
+36,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection,GraphQL%20Injection
+37,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References,Insecure%20Direct%20Object%20References
+38,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management,Insecure%20Source%20Code%20Management
+39,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection,LDAP%20Injection
+40,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection,LaTeX%20Injection
+41,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection,NoSQL%20Injection
+42,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth,OAuth
+43,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery,Server%20Side%20Request%20Forgery
+44,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection,Server%20Side%20Template%20Injection
+45,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files,Upload%20Insecure%20Files
+46,Payload / Exploit Frameworks,github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection,XPATH%20Injection
+47,Data Breach / Leak Search,globaleaks.org,globaleaks.org
+48,Data Breach / Leak Search,haveibeenpwned.com,haveibeenpwned.com
+49,Other / Uncategorized Security Tools,http://finger.tidesec.com/,
+50,Payload / Exploit Frameworks,http://github.com/V1li/H4X-Tools,H4X-Tools
+51,Other / Uncategorized Security Tools,http://gqrx.dk/,
+52,Other / Uncategorized Security Tools,http://pwnwiki.io/,
+53,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),http://sniff.su/,
+54,Scanner / Vulnerability Assessment,http://whatweb.bugscaner.com/look/,
+55,Recon / OSINT,http://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/,
+56,Scanner / Vulnerability Assessment,http://www.openvas.org/,
+57,Other / Uncategorized Security Tools,http://www.skymem.info/,
+58,Payload / Exploit Frameworks,http://www.xss-payloads.com/,
+59,CMS / Framework Identification,http://www.yunsee.cn/,
+60,Payload / Exploit Frameworks,https://0day.today/,
+61,Other / Uncategorized Security Tools,https://0ops.sjtu.edu.cn/,
+62,Other / Uncategorized Security Tools,https://anymailfinder.com/,
+63,Other / Uncategorized Security Tools,https://autopsy.com,autopsy.com
+64,Other / Uncategorized Security Tools,https://bugcrowd.com/crowdstream,crowdstream
+65,Other / Uncategorized Security Tools,https://capturetheflag.withgoogle.com/,
+66,Other / Uncategorized Security Tools,https://codereview.training/,
+67,Other / Uncategorized Security Tools,https://ctf.hack.lu/,
+68,Other / Uncategorized Security Tools,https://ctf.hacker101.com/,
+69,Other / Uncategorized Security Tools,https://ctf.hitcon.org/,
+70,Other / Uncategorized Security Tools,https://ctflearn.com/,
+71,Other / Uncategorized Security Tools,https://ctftime.org/,
+72,Payload / Exploit Frameworks,https://cvexploits.io/,
+73,Other / Uncategorized Security Tools,https://cyberdefenders.org/,
+74,Other / Uncategorized Security Tools,https://deftlinux.net,deftlinux.net
+75,Recon / OSINT,https://dnsdumpster.com/,
+76,Other / Uncategorized Security Tools,https://dragonsector.pl/,
+77,Network / WiFi,https://en.hacks.gr/odigos-wifi-hacking-me-to-wifite/,
+78,Recon / OSINT,https://en.hacks.gr/pos-na-xrisimopoiisete-proxychain/,
+79,Other / Uncategorized Security Tools,https://en.iguru.gr/anakalypse-sql-injection-enan-web-server/,
+80,Other / Uncategorized Security Tools,https://en.iguru.gr/odigos-epitheseon-ddos-goldeneye/,
+81,Scanner / Vulnerability Assessment,https://en.iguru.gr/odigos-fuzzing-gia-tin-evresi-kenon-asfaleias-burpsuite/,
+82,Other / Uncategorized Security Tools,https://f-droid.org/packages/com.termux/,
+83,Other / Uncategorized Security Tools,https://fp.shuziguanxing.com/,
+84,Other / Uncategorized Security Tools,https://gist.github.com/Cur10s1tyByt3/6567c5b8df11ec9ec1219693c7bd,6567c5b8df11ec9ec1219693c7bd
+85,Other / Uncategorized Security Tools,https://gist.github.com/Cur10s1tyByt3/c5a43c1e3f8b04ebda879b8dbc7fdc15,c5a43c1e3f8b04ebda879b8dbc7fdc15
+86,Other / Uncategorized Security Tools,https://gist.github.com/Cur10s1tyByt3/d23715fcb9f430536f9fa0244d84dfba,d23715fcb9f430536f9fa0244d84dfba
+87,Other / Uncategorized Security Tools,https://gist.github.com/Cur10s1tyByt3/dc588ed536b79301417fa34719db7400,dc588ed536b79301417fa34719db7400
+88,Phishing / Initial Access,https://gitHub.com/evildevill/emptyphish,emptyphish
+89,CTF Tools,https://github.com/0x00-0x00/shellpop,shellpop
+90,Other / Uncategorized Security Tools,https://github.com/0x0be/yesitsme,yesitsme
+91,Offensive AI,https://github.com/0x4m4/hexstrike-ai,hexstrike-ai
+92,Recon / OSINT,https://github.com/0x6rss/chat-apps-osint/,
+93,CMS / Framework Identification,https://github.com/0x727/FingerprintHub,FingerprintHub
+94,CMS / Framework Identification,https://github.com/0x727/ObserverWard,ObserverWard
+95,General Hacking Tools,https://github.com/0xBugatti/oscpdb,oscpdb
+96,Phishing / Initial Access,https://github.com/0xDanielLopez/phishing_kits,phishing_kits
+97,Scanner / Vulnerability Assessment,https://github.com/0xKayala/NucleiScanner,NucleiScanner
+98,Defense Evasion / AV-EDR Bypass,https://github.com/0xNinjaCyclone/hellMaker,hellMaker
+99,AI-Powered Tools,https://github.com/0xSteph/pentest-ai,pentest-ai
+100,RAT / C2 / Botnet,https://github.com/0xbitx/DEDSEC_BOTNET,DEDSEC_BOTNET
+101,RAT / C2 / Botnet,https://github.com/0xyg3n/claude-c2,claude-c2
+102,Scanner / Vulnerability Assessment,https://github.com/20142995/Goby,Goby
+103,RAT / C2 / Botnet,https://github.com/28Zaaky/PulseC2,PulseC2
+104,RAT / C2 / Botnet,https://github.com/28Zaaky/khaos-c2,khaos-c2
+105,Recon / OSINT,https://github.com/3nock/SpiderSuite,SpiderSuite
+106,Scanner / Vulnerability Assessment,https://github.com/4dogs-cn/TXPortMap,TXPortMap
+107,Mobile / Phone Hacking,https://github.com/4mritGiri/NumberTracker,NumberTracker
+108,Scanner / Vulnerability Assessment,https://github.com/4ra1n/super-xray,super-xray
+109,RAT / C2 / Botnet,https://github.com/5arth4k-X/RedVect0r,RedVect0r
+110,Defense Evasion / AV-EDR Bypass,https://github.com/888private888/PredatorCrypter,PredatorCrypter
+111,Scanner / Vulnerability Assessment,https://github.com/ADScanPro/adscan,adscan
+112,Other / Uncategorized Security Tools,https://github.com/AI-secure/UDora,UDora
+113,Other / Uncategorized Security Tools,https://github.com/ALW1EZ/Arkhota,Arkhota
+114,Other / Uncategorized Security Tools,https://github.com/ANDRVV/gapcast,gapcast
+115,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/APKLab/APKLab,APKLab
+116,Scanner / Vulnerability Assessment,https://github.com/Abhinandan-Khurana/Network_Scanner,Network_Scanner
+117,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/Adityaraj6/VPLE,VPLE
+118,Phishing / Initial Access,https://github.com/Adrilaw/MedusaPhisher,MedusaPhisher
+119,Web Shell / Reverse Shell,https://github.com/Adrilaw/PhantomShell,PhantomShell
+120,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/AkaTorich/HTTSDebugger,HTTSDebugger
+121,Phishing / Initial Access,https://github.com/Akshay-Arjun/69phisher,69phisher
+122,CMS / Framework Identification,https://github.com/AliasIO/Wappalyzer,Wappalyzer
+123,Other / Uncategorized Security Tools,https://github.com/Alishahryar1/free-claude-code,free-claude-code
+124,Defense Evasion / AV-EDR Bypass,https://github.com/Amaop/Rust-Crypter,Rust-Crypter
+125,Defense Evasion / AV-EDR Bypass,https://github.com/An0nUD4Y/FullBypass,FullBypass
+126,Phishing / Initial Access,https://github.com/An0nUD4Y/shellphish,shellphish
+127,Android,https://github.com/Android1500/AndroidFaker,AndroidFaker
+128,Defense Evasion / AV-EDR Bypass,https://github.com/AndyFul/Run-By-Smartscreen,Run-By-Smartscreen
+129,Other / Uncategorized Security Tools,https://github.com/Ap0dexMe0/CodeSentience,CodeSentience
+130,Scanner / Vulnerability Assessment,https://github.com/Arachni/arachni,arachni
+131,AI-Powered Tools,https://github.com/Armur-Ai/Pentest-Swarm-AI,Pentest-Swarm-AI
+132,Recon / OSINT,https://github.com/Astrosp/Awesome-OSINT-List,Awesome-OSINT-List
+133,Mobile / Phone Hacking,https://github.com/AzeemIdrisi/PhoneSploit-Pro,PhoneSploit-Pro
+134,RAT / C2 / Botnet,https://github.com/BC-SECURITY/Empire,Empire
+135,Payload / Exploit Frameworks,https://github.com/BC-SECURITY/Starkiller,Starkiller
+136,Privilege Escalation,https://github.com/BeichenDream/SharpToken,SharpToken
+137,DDoS / Bombing Tools,https://github.com/Bhai4You/otpbomber,otpbomber
+138,Email Utilities,https://github.com/Billionmail/BillionMail,BillionMail
+139,AI-Powered Tools,https://github.com/Bin-Huang/chatbox,chatbox
+140,Android,https://github.com/BlackSnufkin/GeckoDroid,GeckoDroid
+141,Other / Uncategorized Security Tools,https://github.com/BlackSnufkin/LitterBox,LitterBox
+142,Stealer / Keylogger / Grabber,https://github.com/BlackSnufkin/Maverick,Maverick
+143,Stealer / Keylogger / Grabber,https://github.com/Blank-c/Umbral-Stealer,Umbral-Stealer
+144,Network / WiFi,https://github.com/BornToBeRoot/NETworkManager,NETworkManager
+145,Scanner / Vulnerability Assessment,https://github.com/Btr4k/bugbounty-agent,bugbounty-agent
+146,Browser Automation / Scraping,https://github.com/BuilderIO/gpt-crawler,gpt-crawler
+147,Recon / OSINT,https://github.com/BullsEye0/shodan-eye,shodan-eye
+148,Ransomware,https://github.com/BushidoUK/Ransomware-Tool-Matrix,Ransomware-Tool-Matrix
+149,CTF Tools,https://github.com/C2SP/wycheproof,wycheproof
+150,Recon / OSINT,https://github.com/C3n7ral051nt4g3ncy/HandleHawk,HandleHawk
+151,Recon / OSINT,https://github.com/CScorza/OSINT-FORENSICS-MOBILE,OSINT-FORENSICS-MOBILE
+152,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/CYB3RMX/MalwareAnalysis101,MalwareAnalysis101
+153,Android,https://github.com/CanciuCostin/android-spyware,android-spyware
+154,General Hacking Tools,https://github.com/CarterPerez-dev/Cybersecurity-Projects,Cybersecurity-Projects
+155,Defense Evasion / AV-EDR Bypass,https://github.com/Cerbersec/KillDefenderBOF,KillDefenderBOF
+156,Other / Uncategorized Security Tools,https://github.com/CesarAyalaDev/RAASNet,RAASNet
+157,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/Cleafy/Malfixer,Malfixer
+158,RAT / C2 / Botnet,https://github.com/Cobalt-Strike/bof-vs,bof-vs
+159,RAT / C2 / Botnet,https://github.com/Cobalt-Strike/bof_template,bof_template
+160,Ransomware,https://github.com/Cryakl/Ransomware-Database,Ransomware-Database
+161,RAT / C2 / Botnet,https://github.com/Cryakl/Ultimate-RAT-Collection,Ultimate-RAT-Collection
+162,Defense Evasion / AV-EDR Bypass,https://github.com/Cur10s1tyByt3/GhostlyHollowingViaTamperedSyscalls,GhostlyHollowingViaTamperedSyscalls
+163,Phishing / Initial Access,https://github.com/Cyber-Dioxide/CyberPhish,CyberPhish
+164,Offensive AI,https://github.com/CyberSecurityUP/NeuroSploit,NeuroSploit
+165,Offensive AI,https://github.com/CyberSecurityUP/Offensive-AI-Agent-Prompts,Offensive-AI-Agent-Prompts
+166,Payload / Exploit Frameworks,https://github.com/D4Vinci/Dr0p1t-Framework,Dr0p1t-Framework
+167,Payload / Exploit Frameworks,https://github.com/Da7rkx0/PDF-EXPLOIT--Non-Silent,PDF-EXPLOIT--Non-Silent
+168,Phishing / Initial Access,https://github.com/DarkSecDevelopers/HiddenEye-Legacy,HiddenEye-Legacy
+169,Stealer / Keylogger / Grabber,https://github.com/DarkSpaceSecurity/SpyAI,SpyAI
+170,PHP Web Tools,https://github.com/Deadshot0x7/Webspoilt,Webspoilt
+171,RAT / C2 / Botnet,https://github.com/DeimosC2/DeimosC2,DeimosC2
+172,General Hacking Tools,https://github.com/DhanushNehru/Ultimate-Cybersecurity-Resources,Ultimate-Cybersecurity-Resources
+173,Network / WiFi,https://github.com/DnsChanger/dnsChanger-desktop,dnsChanger-desktop
+174,Network / WiFi,https://github.com/DominikStyp/WPA-Attack,WPA-Attack
+175,Android,https://github.com/DouglasFreshHabian/AndroidForensics,AndroidForensics
+176,Scanner / Vulnerability Assessment,https://github.com/EarToEarOak/RTLSDR-Scanner,RTLSDR-Scanner
+177,Offensive AI,https://github.com/Ed1s0nZ/CyberStrikeAI,CyberStrikeAI
+178,CMS / Framework Identification,https://github.com/EdgeSecurityTeam/EHole,EHole
+179,Scanner / Vulnerability Assessment,https://github.com/EnableSecurity/wafw00f,wafw00f
+180,RAT / C2 / Botnet,https://github.com/EricEsquivel/CobaltStrike-Linux-Beacon,CobaltStrike-Linux-Beacon
+181,Ransomware,https://github.com/Err0r-ICA/Ransomware,Ransomware
+182,Anonymity / Tor / VPN,https://github.com/FDX100/Auto_Tor_IP_changer,Auto_Tor_IP_changer
+183,Defense Evasion / AV-EDR Bypass,https://github.com/FLOCK4H/Freeway,Freeway
+184,USB / Hardware Tools,https://github.com/FabioBaroni/Was,Was
+185,Payload / Exploit Frameworks,https://github.com/FunnyWolf/Viper,Viper
+186,CTF Tools,https://github.com/Ganapati/RsaCtfTool,RsaCtfTool
+187,Other / Uncategorized Security Tools,https://github.com/Gaurav-Gosain/tuios,tuios
+188,Stealer / Keylogger / Grabber,https://github.com/Geeoon/DNS-Tunnel-Keylogger,DNS-Tunnel-Keylogger
+189,Android,https://github.com/Genymobile/scrcpy,scrcpy
+190,RAT / C2 / Botnet,https://github.com/GeorgePatsias/ScareCrow-CobaltStrike,ScareCrow-CobaltStrike
+191,Ransomware,https://github.com/Gheris-579/RANSOMEWARE,RANSOMEWARE
+192,Scanner / Vulnerability Assessment,https://github.com/Goqi/Banli,Banli
+193,Anonymity / Tor / VPN,https://github.com/GouveaHeitor/nipe,nipe
+194,Scanner / Vulnerability Assessment,https://github.com/H4CKTHOR/thor-suiteMonsterEdition,thor-suiteMonsterEdition
+195,CMS / Framework Identification,https://github.com/HA71/WhatCMS,WhatCMS
+196,Recon / OSINT,https://github.com/HackShiv/OneDorkForAll/tree/main/dorks/1M_dork,1M_dork
+197,Other / Uncategorized Security Tools,https://github.com/HackUnderway/SearchPhone/,
+198,Red Team Tools,https://github.com/Hacking-Notes/RedTeam,RedTeam
+199,Other / Uncategorized Security Tools,https://github.com/Hackplayers/evil-winrm/tree/ai,ai
+200,RAT / C2 / Botnet,https://github.com/HavocFramework/Havoc,Havoc
+201,Phishing / Initial Access,https://github.com/HiddenPhish/HiddenPhish,HiddenPhish
+202,Network / WiFi,https://github.com/IanHarvey/bluepy,bluepy
+203,General Hacking Tools,https://github.com/Ilias1988/Hacking-Cheatsheets,Hacking-Cheatsheets
+204,Payload / Exploit Frameworks,https://github.com/Ilias1988/payload-obfuscator,payload-obfuscator
+205,General Hacking Tools,https://github.com/InspectorDidi/Hacking-Books,Hacking-Books
+206,Scanner / Vulnerability Assessment,https://github.com/Jakkxbt/CobraAudit,CobraAudit
+207,Network / WiFi,https://github.com/JiaoXianjun/BTLE,BTLE
+208,Recon / OSINT,https://github.com/Jieyab89/OSINT-Cheat-sheet?tab=readme-ov-file,OSINT-Cheat-sheet?tab=readme-ov-file
+209,Mobile / Phone Hacking,https://github.com/JoaquimLey/sms-parsing,sms-parsing
+210,Defense Evasion / AV-EDR Bypass,https://github.com/JoasASantos/SysWhispers4,SysWhispers4
+211,Data Breach / Leak Search,https://github.com/JoelGMSec/LeakSearch,LeakSearch
+212,Scanner / Vulnerability Assessment,https://github.com/JohnTroony/Blisqy,Blisqy
+213,Phishing / Initial Access,https://github.com/KasRoudra/PyPhisher,PyPhisher
+214,Other / Uncategorized Security Tools,https://github.com/KeygraphHQ/shannon,shannon
+215,Stealer / Keylogger / Grabber,https://github.com/KingOfTheNOPs/cookie-monster,cookie-monster
+216,Android,https://github.com/Kirozaku/Andrax-Termux,Andrax-Termux
+217,DDoS / Bombing Tools,https://github.com/LMNx9-JOHNY/D-DOS-Attack-24,D-DOS-Attack-24
+218,DDoS / Bombing Tools,https://github.com/LMNx9-JOHNY/E-MAIL_BOMBER,E-MAIL_BOMBER
+219,Other / Uncategorized Security Tools,https://github.com/LNodesL/12-C-Programs-to-Run-EXE,12-C-Programs-to-Run-EXE
+220,Other / Uncategorized Security Tools,https://github.com/LNodesL/CryptDemo,CryptDemo
+221,Defense Evasion / AV-EDR Bypass,https://github.com/LNodesL/EspanaKrypt,EspanaKrypt
+222,Defense Evasion / AV-EDR Bypass,https://github.com/LNodesL/Sonofa-Byte-Crypting-Program,Sonofa-Byte-Crypting-Program
+223,General Hacking Tools,https://github.com/LasCC/HackTools,HackTools
+224,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/LaurieWired/GhidraMCP,GhidraMCP
+225,Payload / Exploit Frameworks,https://github.com/Lavender-exe/BofCollection,BofCollection
+226,Network / WiFi,https://github.com/Leo-Corporation/InternetTest,InternetTest
+227,DDoS / Bombing Tools,https://github.com/LimerBoy/Impulse,Impulse
+228,Recon / OSINT,https://github.com/Lissy93/web-check,web-check
+229,Payload / Exploit Frameworks,https://github.com/LongWayHomie/PolyEngine,PolyEngine
+230,Other / Uncategorized Security Tools,https://github.com/Lora-net/lora_gateway/tree/master/libloragw/inc,inc
+231,Payload / Exploit Frameworks,https://github.com/Lucifer1993/AngelSword,AngelSword
+232,Scanner / Vulnerability Assessment,https://github.com/Lucifer1993/struts-scan,struts-scan
+233,Password / Credential Attacks,https://github.com/M4xSec/K-OTP-X,K-OTP-X
+234,General Hacking Tools,https://github.com/MHaggis/NEBULA,NEBULA
+235,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/MISP/MISP,MISP
+236,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/MLX15/StormKitty,StormKitty
+237,Stealer / Keylogger / Grabber,https://github.com/Maldev-Academy/DumpBrowserSecrets,DumpBrowserSecrets
+238,RAT / C2 / Botnet,https://github.com/MaorSabag/Adaptix-StealthPalace,Adaptix-StealthPalace
+239,Other / Uncategorized Security Tools,https://github.com/MaorSabag/NaX,NaX
+240,RAT / C2 / Botnet,https://github.com/MarkNaderKamel/CerberusX-Framework,CerberusX-Framework
+241,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/MartinxMax/BloodCat,BloodCat
+242,RAT / C2 / Botnet,https://github.com/Mazzy-Stars/lain_c2,lain_c2
+243,Browser Automation / Scraping,https://github.com/MechanicalSoup/MechanicalSoup,MechanicalSoup
+244,Payload / Exploit Frameworks,https://github.com/Meltedd/VisualSploit,VisualSploit
+245,USB / Hardware Tools,https://github.com/MinhasKamal/TrojanCockroach,TrojanCockroach
+246,AI-Powered Tools,https://github.com/Mintplex-Labs/anything-llm,anything-llm
+247,Android,https://github.com/MobSF/Mobile-Security-Framework-MobSF,Mobile-Security-Framework-MobSF
+248,Network / WiFi,https://github.com/MrAmirRezaie/MacChanger,MacChanger
+249,Stealer / Keylogger / Grabber,https://github.com/N0rz3/Phunter,Phunter
+250,Payload / Exploit Frameworks,https://github.com/N7WEra/BofAllTheThings,BofAllTheThings
+251,Network / WiFi,https://github.com/Nabil-Official/N-TRACE,N-TRACE
+252,Browser Automation / Scraping,https://github.com/NaiboWang/EasySpider,EasySpider
+253,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/NationalSecurityAgency/ghidra,ghidra
+254,Payload / Exploit Frameworks,https://github.com/NationalSecurityAgency/qgis-latlontools-plugin,qgis-latlontools-plugin
+255,Scanner / Vulnerability Assessment,https://github.com/Neohapsis/bbqsql,bbqsql
+256,Password / Credential Attacks,https://github.com/Net-hunter121/API-Wordlist,API-Wordlist
+257,RAT / C2 / Botnet,https://github.com/NixWasHere/NebulaC2,NebulaC2
+258,RAT / C2 / Botnet,https://github.com/Noir0x63/Command-Control-Forum,Command-Control-Forum
+259,Scanner / Vulnerability Assessment,https://github.com/OJ/gobuster,gobuster
+260,RAT / C2 / Botnet,https://github.com/P0142/LDAP-Bof-Collection,LDAP-Bof-Collection
+261,Scanner / Vulnerability Assessment,https://github.com/PAPAMICA/waf-checker,waf-checker
+262,Red Team Tools,https://github.com/PentesterFlow/OffensiveSET,OffensiveSET
+263,RAT / C2 / Botnet,https://github.com/PhoenixC2/PhoenixC2,PhoenixC2
+264,DDoS / Bombing Tools,https://github.com/Priyans0830m/DDOS-BOMBER,DDOS-BOMBER
+265,Other / Uncategorized Security Tools,https://github.com/ProcessusT/LoadThat-PEandAssembly,LoadThat-PEandAssembly
+266,Recon / OSINT,https://github.com/Proviesec/google-dorks,google-dorks
+267,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/Pyran1/MalwareDatabase,MalwareDatabase
+268,DDoS / Bombing Tools,https://github.com/R00tS3c/DDOS-RootSec,DDOS-RootSec
+269,AI-Powered Tools,https://github.com/REDMED-X/OperatorsKit,OperatorsKit
+270,Scanner / Vulnerability Assessment,https://github.com/RUB-NDS/Terrapin-Scanner,Terrapin-Scanner
+271,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/Ragnt/AngryOxide,AngryOxide
+272,Phishing / Initial Access,https://github.com/Raikia/FiercePhish/,
+273,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/RamadhanAmizudin/malware,malware
+274,Other / Uncategorized Security Tools,https://github.com/Red-Hex-Consulting/Ankou,Ankou
+275,General Hacking Tools,https://github.com/Rhacknarok/hacksguard,hacksguard
+276,Red Team Tools,https://github.com/RoseSecurity/Red-Teaming-TTPs,Red-Teaming-TTPs
+277,Scanner / Vulnerability Assessment,https://github.com/RustScan/RustScan,RustScan
+278,Payload / Exploit Frameworks,https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet,Active-Directory-Exploitation-Cheat-Sheet
+279,Red Team Tools,https://github.com/S3N4T0R-0X0/BEAR,BEAR
+280,Recon / OSINT,https://github.com/SOsintOps/Exploratores,Exploratores
+281,Recon / OSINT,https://github.com/SOsintOps/claudii-exploratores,claudii-exploratores
+282,Other / Uncategorized Security Tools,https://github.com/STARK-404/FB-HACK/,
+283,Other / Uncategorized Security Tools,https://github.com/SamNet-dev/paqctl,paqctl
+284,Browser Automation / Scraping,https://github.com/ScrapeGraphAI/Scrapegraph-ai,Scrapegraph-ai
+285,Browser Automation / Scraping,https://github.com/ScrapeHero/google-search-results-serp-api,google-search-results-serp-api
+286,RAT / C2 / Botnet,https://github.com/SeroSkiid/SeroC2,SeroC2
+287,Other / Uncategorized Security Tools,https://github.com/ServiceNow/DoomArena,DoomArena
+288,Other / Uncategorized Security Tools,https://github.com/Sheikh-Nightshader/MetaXtractor/,
+289,Other / Uncategorized Security Tools,https://github.com/Sheikh-Nightshader/Pathfinder/,
+290,AI-Powered Tools,https://github.com/SnailSploit/Claude-Red,Claude-Red
+291,RAT / C2 / Botnet,https://github.com/Souhardya/UBoat,UBoat
+292,Network / WiFi,https://github.com/Squuv/WifiBF,WifiBF
+293,Recon / OSINT,https://github.com/SubGlitch1/OSRipper,OSRipper
+294,Other / Uncategorized Security Tools,https://github.com/SubtitleEdit/subtitleedit,subtitleedit
+295,General Hacking Tools,https://github.com/Syslifters/sysreptor,sysreptor
+296,Other / Uncategorized Security Tools,https://github.com/T-Dynamos/WAFA,WAFA
+297,Recon / OSINT,https://github.com/TakSec/google-dorks-bug-bounty,google-dorks-bug-bounty
+298,Stealer / Keylogger / Grabber,https://github.com/TaxMachine/Grabbers-Deobfuscator,Grabbers-Deobfuscator
+299,Defense Evasion / AV-EDR Bypass,https://github.com/TierZeroSecurity/edr_blocker,edr_blocker
+300,Other / Uncategorized Security Tools,https://github.com/Tomiwa-Ot/moukthar,moukthar
+301,RAT / C2 / Botnet,https://github.com/Trapwithme/Trap-Panel,Trap-Panel
+302,Network / WiFi,https://github.com/Travisun/Latest-Country-IP-List,Latest-Country-IP-List
+303,RAT / C2 / Botnet,https://github.com/TrustedSec/ZeroLogon-BOF,ZeroLogon-BOF
+304,CMS / Framework Identification,https://github.com/Tuhinshubhra/CMSeeK,CMSeeK
+305,Scanner / Vulnerability Assessment,https://github.com/Tuhinshubhra/RED_HAWK,RED_HAWK
+306,Recon / OSINT,https://github.com/TypeError/domained,domained
+307,AI-Powered Tools,https://github.com/UbiquitousLearning/mllm,mllm
+308,Android,https://github.com/UltraSina/androidReverse,androidReverse
+309,Defense Evasion / AV-EDR Bypass,https://github.com/UnamSanctam/SilentETHMiner,SilentETHMiner
+310,Phishing / Initial Access,https://github.com/UndeadSec/SocialFish,SocialFish
+311,AI-Powered Tools,https://github.com/Vali-98/ChatterUI,ChatterUI
+312,Phishing / Initial Access,https://github.com/Viralmaniar/I-See-You,I-See-You
+313,RAT / C2 / Botnet,https://github.com/Viralmaniar/Powershell-RAT,Powershell-RAT
+314,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/VirusTotal/yara,yara
+315,Payload / Exploit Frameworks,https://github.com/Wanssss1/BOFs,BOFs
+316,RAT / C2 / Botnet,https://github.com/Waremderme/GateSentinel-C2-RemoteTool,GateSentinel-C2-RemoteTool
+317,RAT / C2 / Botnet,https://github.com/WhiteeRabbit/Triton_RAT,Triton_RAT
+318,Payload / Exploit Frameworks,https://github.com/Xyntax/POC-T,POC-T
+319,Password / Credential Attacks,https://github.com/Zard2007/Gmail-Hack,Gmail-Hack
+320,Red Team Tools,https://github.com/ZeroMemoryEx/Chaos-Rootkit,Chaos-Rootkit
+321,General Hacking Tools,https://github.com/ZeroTrace404/RedReaper,RedReaper
+322,AI-Powered Tools,https://github.com/a-ghorbani/pocketpal-ai,pocketpal-ai
+323,USB / Hardware Tools,https://github.com/abrar360/BeefPurloin,BeefPurloin
+324,Payload / Exploit Frameworks,https://github.com/achuna33/MYExploit,MYExploit
+325,Android,https://github.com/adityatelange/frida-ui,frida-ui
+326,Recon / OSINT,https://github.com/adnane-X-tebbaa/Katana,Katana
+327,General Hacking Tools,https://github.com/afsh4ck/HackLabs,HackLabs
+328,Scanner / Vulnerability Assessment,https://github.com/albinowax/ActiveScanPlusPlus,ActiveScanPlusPlus
+329,DDoS / Bombing Tools,https://github.com/alexbieber/RevengeBomber2.0,RevengeBomber2.0
+330,Network / WiFi,https://github.com/alipay/Owfuzz,Owfuzz
+331,RAT / C2 / Botnet,https://github.com/amtzespinosa/wp-backdoor,wp-backdoor
+332,Network / WiFi,https://github.com/andreicscs/HoneyWire,HoneyWire
+333,Scanner / Vulnerability Assessment,https://github.com/andresriancho/w3af/,
+334,Android,https://github.com/androidmalware/OpenClaw_Termux,OpenClaw_Termux
+335,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/angr/angr-management,angr-management
+336,Browser Automation / Scraping,https://github.com/anicel/crawl-js,crawl-js
+337,Browser Automation / Scraping,https://github.com/apify/crawlee,crawlee
+338,Other / Uncategorized Security Tools,https://github.com/appwrite/appwrite,appwrite
+339,CTF Tools,https://github.com/apsdehal/awesome-ctf,awesome-ctf
+340,Recon / OSINT,https://github.com/aquasecurity/traceeshark,traceeshark
+341,Scanner / Vulnerability Assessment,https://github.com/aquasecurity/trivy,trivy
+342,General Hacking Tools,https://github.com/arch3rPro/Pentest-Windows,Pentest-Windows
+343,Scanner / Vulnerability Assessment,https://github.com/archerysec/archerysec,archerysec
+344,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/arxsys/dff,dff
+345,Stealer / Keylogger / Grabber,https://github.com/avatar198/Doofi-stealer-discord-FUD,Doofi-stealer-discord-FUD
+346,General Hacking Tools,https://github.com/aw-junaid/Hacking-Tools,Hacking-Tools
+347,Android,https://github.com/awesome-android-root/awesome-android-root,awesome-android-root
+348,Scanner / Vulnerability Assessment,https://github.com/awnumar/blind-sql-bitshifting,blind-sql-bitshifting
+349,Privilege Escalation,https://github.com/badsectorlabs/sccm-http-looter,sccm-http-looter
+350,Anonymity / Tor / VPN,https://github.com/brainfuckSec/kalitorify,kalitorify
+351,AI-Powered Tools,https://github.com/bugbasesecurity/pentest-copilot,pentest-copilot
+352,Scanner / Vulnerability Assessment,https://github.com/bwInfoSec/VulnerabilityHub,VulnerabilityHub
+353,Payload / Exploit Frameworks,https://github.com/ccyl13/Payload-Generator,Payload-Generator
+354,General Hacking Tools,https://github.com/cdxiaodong/AI-Cloud-pentest-framework,AI-Cloud-pentest-framework
+355,Scanner / Vulnerability Assessment,https://github.com/chaitin/xray,xray
+356,Browser Automation / Scraping,https://github.com/chm0dx/creepyCrawler,creepyCrawler
+357,Mobile / Phone Hacking,https://github.com/chrisk44/Hijacker,Hijacker
+358,General Hacking Tools,https://github.com/chunkingz/linsetmv,linsetmv
+359,Network / WiFi,https://github.com/chunkingz/linsetmv1-2,linsetmv1-2
+360,CTF Tools,https://github.com/ciphey/ciphey,ciphey
+361,Scanner / Vulnerability Assessment,https://github.com/cisamu123/CyberEye,CyberEye
+362,Radio Hacking,https://github.com/cn0xroot/rfsec-toolkit,rfsec-toolkit
+363,Scanner / Vulnerability Assessment,https://github.com/codingo/NoSQLMap,NoSQLMap
+364,Browser Automation / Scraping,https://github.com/crawler-commons/crawler-commons,crawler-commons
+365,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/cristianzsh/forensictools,forensictools
+366,QR Code / Steganography,https://github.com/cryptedwolf/ohmyqr,ohmyqr
+367,Mobile / Phone Hacking,https://github.com/cryst4linqq/TurkoRat-TELEGRAM,TurkoRat-TELEGRAM
+368,Other / Uncategorized Security Tools,https://github.com/csicar/Ning,Ning
+369,Mobile / Phone Hacking,https://github.com/cyberboyplas/WhSms,WhSms
+370,Privilege Escalation,https://github.com/daem0nc0re/PrivFu/tree/main/PowerOfTcb,PowerOfTcb
+371,Recon / OSINT,https://github.com/danielmiessler/SecLists,SecLists
+372,Other / Uncategorized Security Tools,https://github.com/darthnorse/dockmon/,
+373,Phishing / Initial Access,https://github.com/davenisc/thief_raccoon,thief_raccoon
+374,Privilege Escalation,https://github.com/dazzyddos/PrivHound,PrivHound
+375,Recon / OSINT,https://github.com/dereeqw/BlackBerryC2,BlackBerryC2
+376,Network / WiFi,https://github.com/derv82/wifite,wifite
+377,CTF Tools,https://github.com/digininja/DVWA,DVWA
+378,Other / Uncategorized Security Tools,https://github.com/digitalbitbox/pylef,pylef
+379,Stealer / Keylogger / Grabber,https://github.com/dnSpyEx/dnSpy,dnSpy
+380,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),https://github.com/dr34mhacks/xssnow,xssnow
+381,Phishing / Initial Access,https://github.com/drcrypterdotru/clickfix-builder,clickfix-builder
+382,Scanner / Vulnerability Assessment,https://github.com/drcrypterdotru/sqlmap-skynet,sqlmap-skynet
+383,Stealer / Keylogger / Grabber,https://github.com/drcrypterdotru/warworm-stealer,warworm-stealer
+384,Scanner / Vulnerability Assessment,https://github.com/dtag-dev-sec/explo,explo
+385,Recon / OSINT,https://github.com/egetones/talon,talon
+386,Scanner / Vulnerability Assessment,https://github.com/elddy/NimScan,NimScan
+387,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/endermanch/MalwareDatabase,MalwareDatabase
+388,Scanner / Vulnerability Assessment,https://github.com/enkomio/Taipan,Taipan
+389,Web Shell / Reverse Shell,https://github.com/epotseluevskaya/ASPX_WebShell_COFFLoader,ASPX_WebShell_COFFLoader
+390,Network / WiFi,https://github.com/esc0rtd3w/wifi-hacker,wifi-hacker
+391,Network / WiFi,https://github.com/ethicalhackeragnidhra/SigPloit-ss7,SigPloit-ss7
+392,Network / WiFi,https://github.com/evilsocket/nyx,nyx
+393,RAT / C2 / Botnet,https://github.com/exfil0/RevBot,RevBot
+394,Scanner / Vulnerability Assessment,https://github.com/eystsen/pentestlab,pentestlab
+395,RAT / C2 / Botnet,https://github.com/f3di006/vxRat,vxRat
+396,RAT / C2 / Botnet,https://github.com/fadelegend/Titan-C2,Titan-C2
+397,Recon / OSINT,https://github.com/fawadqureshi007/Black,Black
+398,Scanner / Vulnerability Assessment,https://github.com/ffuf/ffuf,ffuf
+399,RAT / C2 / Botnet,https://github.com/flashnuke/pass-generator,pass-generator
+400,Scanner / Vulnerability Assessment,https://github.com/foryujian/yujianportscan,yujianportscan
+401,Android,https://github.com/frida/frida,frida
+402,Android,https://github.com/funsecurity/apk_binder_script,apk_binder_script
+403,Scanner / Vulnerability Assessment,https://github.com/future-architect/vuls,vuls
+404,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/fxrstor/MalwareRepository,MalwareRepository
+405,USB / Hardware Tools,https://github.com/gamblur/Steal-User-identity-through-USB,Steal-User-identity-through-USB
+406,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/geeksniper/reverse-engineering-toolkit,reverse-engineering-toolkit
+407,Scanner / Vulnerability Assessment,https://github.com/gh1mau/laraSAST,laraSAST
+408,Other / Uncategorized Security Tools,https://github.com/go-rod/rod,rod
+409,Browser Automation / Scraping,https://github.com/gocolly/colly,colly
+410,Ransomware,https://github.com/goliate/hidden-tear,hidden-tear
+411,Scanner / Vulnerability Assessment,https://github.com/google/log4jscanner,log4jscanner
+412,Scanner / Vulnerability Assessment,https://github.com/google/osv-scanner,osv-scanner
+413,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/google/rekall,rekall
+414,Phishing / Initial Access,https://github.com/gophish/gophish,gophish
+415,Stealer / Keylogger / Grabber,https://github.com/grab/grab,grab
+416,Ransomware,https://github.com/graniet/fsociety-ransomware-MrRobot,fsociety-ransomware-MrRobot
+417,USB / Hardware Tools,https://github.com/grant273/phone-nab,phone-nab
+418,Scanner / Vulnerability Assessment,https://github.com/greenbone/gvm,gvm
+419,AI-Powered Tools,https://github.com/guinmoon/LLMFarm,LLMFarm
+420,Web Shell / Reverse Shell,https://github.com/hackerschoice/hackshell,hackshell
+421,Stealer / Keylogger / Grabber,https://github.com/hackirby/skuld,skuld
+422,Phishing / Initial Access,https://github.com/hangetzzu/saycheese,saycheese
+423,Stealer / Keylogger / Grabber,https://github.com/harkerbyte/spyder,spyder
+424,Network / WiFi,https://github.com/hash3liZer/WiFiBroot,WiFiBroot
+425,Android,https://github.com/hexsecteam/HacknDroid,HacknDroid
+426,Password / Credential Attacks,https://github.com/hmaverickadams/DeHashed-API-Tool,DeHashed-API-Tool
+427,Other / Uncategorized Security Tools,https://github.com/honojs/hono,hono
+428,RAT / C2 / Botnet,https://github.com/hrtywhy/BOF-CobaltStrike,BOF-CobaltStrike
+429,Phishing / Initial Access,https://github.com/htr-tech/zphisher,zphisher
+430,Recon / OSINT,https://github.com/hueristiq/xurlfind3r,xurlfind3r
+431,Red Team Tools,https://github.com/hydrapwk/hydrapwk,hydrapwk
+432,Phishing / Initial Access,https://github.com/iinc0gnit0/BlackPhish,BlackPhish
+433,RAT / C2 / Botnet,https://github.com/im-hanzou/Arbitrium-RAT,Arbitrium-RAT
+434,Ransomware,https://github.com/im-hanzou/Ransomware,Ransomware
+435,Other / Uncategorized Security Tools,https://github.com/immich-app/immich,immich
+436,Privilege Escalation,https://github.com/incursi0n/GodPotatoBOF,GodPotatoBOF
+437,Red Team Tools,https://github.com/infosecn1nja/Red-Teaming-Toolkit,Red-Teaming-Toolkit
+438,RAT / C2 / Botnet,https://github.com/isPique/Net-Strike,Net-Strike
+439,Stealer / Keylogger / Grabber,https://github.com/iss4cf0ng/DuplexSpyCS,DuplexSpyCS
+440,General Hacking Tools,https://github.com/itwizardo/hackcode,hackcode
+441,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/ivre/ivre,ivre
+442,Defense Evasion / AV-EDR Bypass,https://github.com/j3h4ck/PoisonKiller,PoisonKiller
+443,RAT / C2 / Botnet,https://github.com/jakobfriedl/tgt-monitor-bof,tgt-monitor-bof
+444,Recon / OSINT,https://github.com/jasonxtn/Argus,Argus
+445,Recon / OSINT,https://github.com/jasperan/whatsapp-osint,whatsapp-osint
+446,DDoS / Bombing Tools,https://github.com/jatinkalwar/m-bomber2.O,m-bomber2.O
+447,Other / Uncategorized Security Tools,https://github.com/jenting/clickfarmer,clickfarmer
+448,Network / WiFi,https://github.com/jgamblin/hackAPie,hackAPie
+449,Browser Automation / Scraping,https://github.com/jmcarp/robobrowser,robobrowser
+450,RAT / C2 / Botnet,https://github.com/joaovarelas/GitRunner-C2,GitRunner-C2
+451,Payload / Exploit Frameworks,https://github.com/joaoviictorti/rustbof,rustbof
+452,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/joeavanzato/RetrievIR,RetrievIR
+453,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/jonaslejon/malicious-pdf,malicious-pdf
+454,Network / WiFi,https://github.com/jopohl/urh,urh
+455,RAT / C2 / Botnet,https://github.com/josephrw12/cortex-c2,cortex-c2
+456,Recon / OSINT,https://github.com/k8scout/k8scout,k8scout
+457,Payload / Exploit Frameworks,https://github.com/kapla0011/KaplaStrike,KaplaStrike
+458,Android,https://github.com/kefir500/apk-editor-studio,apk-editor-studio
+459,Network / WiFi,https://github.com/kennyn510/wpa2-wordlists,wpa2-wordlists
+460,Phishing / Initial Access,https://github.com/kgretzky/evilginx,evilginx
+461,Android,https://github.com/kil0bit-kb/scrcpy-gui,scrcpy-gui
+462,Other / Uncategorized Security Tools,https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/,
+463,Privilege Escalation,https://github.com/klezVirus/DriverJack,DriverJack
+464,Defense Evasion / AV-EDR Bypass,https://github.com/klezVirus/SilentMoonwalk,SilentMoonwalk
+465,Red Team Tools,https://github.com/kmdn-ch/phantom-ethical-redteam,phantom-ethical-redteam
+466,Payload / Exploit Frameworks,https://github.com/knownsec/pocsuite3,pocsuite3
+467,Recon / OSINT,https://github.com/kpcyrd/sn0int,sn0int
+468,Scanner / Vulnerability Assessment,https://github.com/kracer127/SiteScan,SiteScan
+469,Network / WiFi,https://github.com/krtzer/WPA2-Wireless-Network-LabVIEW-FPGA-Testing,WPA2-Wireless-Network-LabVIEW-FPGA-Testing
+470,Recon / OSINT,https://github.com/lanmaster53/recon-ng,recon-ng
+471,RAT / C2 / Botnet,https://github.com/layyyfn/RedTiger-Tools,RedTiger-Tools
+472,Scanner / Vulnerability Assessment,https://github.com/leviathan-framework/leviathan,leviathan
+473,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/linx-systems/clamui,clamui
+474,Red Team Tools,https://github.com/loucifer-x/PROSECUTOR,PROSECUTOR
+475,Recon / OSINT,https://github.com/luijait/IP-Info-Geolocalization,IP-Info-Geolocalization
+476,Recon / OSINT,https://github.com/luis22d/ZeroTrace-Panel,ZeroTrace-Panel
+477,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/m0n0ph1/Malware-Collection,Malware-Collection
+478,Cloud Security,https://github.com/m0rtem/CloudFail,CloudFail
+479,Recon / OSINT,https://github.com/m3n0sd0n4ld/GooFuzz,GooFuzz
+480,Ransomware,https://github.com/machine1337/fudransome,fudransome
+481,Other / Uncategorized Security Tools,https://github.com/machine1337/mafiahacks,mafiahacks
+482,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/machine1337/pycrypt,pycrypt
+483,Network / WiFi,https://github.com/marceloaqno/loradiscovery,loradiscovery
+484,Scanner / Vulnerability Assessment,https://github.com/marco-lancini/goscan,goscan
+485,Radio Hacking,https://github.com/martinmarinov/TempestSDR,TempestSDR
+486,Password / Credential Attacks,https://github.com/matricali/cbrutekrag,cbrutekrag
+487,Defense Evasion / AV-EDR Bypass,https://github.com/matro7sh/BypassAV,BypassAV
+488,Scanner / Vulnerability Assessment,https://github.com/maurosoria/dirsearch,dirsearch
+489,Network / WiFi,https://github.com/mayermakes/sx127x-radio,sx127x-radio
+490,Android,https://github.com/mayukh4/linux-android,linux-android
+491,Other / Uncategorized Security Tools,https://github.com/medusajs/medusa,medusa
+492,Recon / OSINT,https://github.com/megadose/holehe,holehe
+493,Network / WiFi,https://github.com/mehedishakeel/WiFi-Pentest-Kit,WiFi-Pentest-Kit
+494,General Hacking Tools,https://github.com/mentebinaria/retoolkit,retoolkit
+495,Scanner / Vulnerability Assessment,https://github.com/michenriksen/aquatone,aquatone
+496,Network / WiFi,https://github.com/microsoft/PyRIT,PyRIT
+497,Browser Automation / Scraping,https://github.com/microsoft/playwright,playwright
+498,Other / Uncategorized Security Tools,https://github.com/milla-jovovich/mempalace,mempalace
+499,General Hacking Tools,https://github.com/mishakorzik/AllHackingTools,AllHackingTools
+500,Recon / OSINT,https://github.com/mishakorzik/UserFinder,UserFinder
+501,General Hacking Tools,https://github.com/mizazhaider-ceh/Security-Books,Security-Books
+502,Android,https://github.com/mkcs121/APK-Easy-Tool,APK-Easy-Tool
+503,Recon / OSINT,https://github.com/mohamedxk9tb/BladeRecon,BladeRecon
+504,Defense Evasion / AV-EDR Bypass,https://github.com/mrT4ntr4/NtWarden,NtWarden
+505,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/mvt-project/mvt,mvt
+506,Recon / OSINT,https://github.com/mxrch/GHunt,GHunt
+507,Scanner / Vulnerability Assessment,https://github.com/n0ise9914/RdpChecker,RdpChecker
+508,Scanner / Vulnerability Assessment,https://github.com/netwrix/pingcastle,pingcastle
+509,Payload / Exploit Frameworks,https://github.com/nixawk/pentest-wiki/blob/master/3.Exploitation-Tools/Network-Exploitation/ports_number.md,ports_number.md
+510,Other / Uncategorized Security Tools,https://github.com/novuhq/novu,novu
+511,Payload / Exploit Frameworks,https://github.com/nsacyber/BitLocker-Guidance,BitLocker-Guidance
+512,Payload / Exploit Frameworks,https://github.com/nsacyber/Blocking-Outdated-Web-Technologies,Blocking-Outdated-Web-Technologies
+513,Payload / Exploit Frameworks,https://github.com/nsacyber/Cyber-Challenge,Cyber-Challenge
+514,Payload / Exploit Frameworks,https://github.com/nsacyber/Detect-CVE-2017-15361-TPM,Detect-CVE-2017-15361-TPM
+515,Payload / Exploit Frameworks,https://github.com/nsacyber/GRASSMARLIN,GRASSMARLIN
+516,Payload / Exploit Frameworks,https://github.com/nsacyber/HTTP-Connectivity-Tester,HTTP-Connectivity-Tester
+517,Payload / Exploit Frameworks,https://github.com/nsacyber/RandPassGenerator,RandPassGenerator
+518,Payload / Exploit Frameworks,https://github.com/nsacyber/Windows-Secure-Host-Baseline,Windows-Secure-Host-Baseline
+519,Payload / Exploit Frameworks,https://github.com/nsacyber/paccor,paccor
+520,Payload / Exploit Frameworks,https://github.com/nsacyber/serial2pcap,serial2pcap
+521,Password / Credential Attacks,https://github.com/ob2configmaker/SilverBullet,SilverBullet
+522,Other / Uncategorized Security Tools,https://github.com/ollama/ollama,ollama
+523,Other / Uncategorized Security Tools,https://github.com/oopsoplm/adpulse,adpulse
+524,General Hacking Tools,https://github.com/open-source-intelligence/osi-tools,osi-tools
+525,PHP Web Tools,https://github.com/openclaw/openclaw,openclaw
+526,Recon / OSINT,https://github.com/opsdisk/pagodo,pagodo
+527,Recon / OSINT,https://github.com/osintambition/Social-Media-OSINT-Tools-Collection,Social-Media-OSINT-Tools-Collection
+528,Recon / OSINT,https://github.com/osintph/darkweb-scanner,darkweb-scanner
+529,AI-Powered Tools,https://github.com/ottosulin/awesome-ai-security,awesome-ai-security
+530,Recon / OSINT,https://github.com/owasp-amass/amass,amass
+531,Stealer / Keylogger / Grabber,https://github.com/p3hv/Storm-Stealer,Storm-Stealer
+532,DDoS / Bombing Tools,https://github.com/palahsu/MBomb,MBomb
+533,Network / WiFi,https://github.com/pauloborges/bluemaho,bluemaho
+534,Phishing / Initial Access,https://github.com/pentestgeek/phishing-frenzy,phishing-frenzy
+535,Web Shell / Reverse Shell,https://github.com/phantom-offensive/Phantom,Phantom
+536,Network / WiFi,https://github.com/philcryer/wpa2own,wpa2own
+537,Anonymity / Tor / VPN,https://github.com/pivpn/pivpn,pivpn
+538,Radio Hacking,https://github.com/pothosware/SoapySDR,SoapySDR
+539,AI-Powered Tools,https://github.com/pradumon14/Trinetra,Trinetra
+540,Scanner / Vulnerability Assessment,https://github.com/projectdiscovery/httpx,httpx
+541,RAT / C2 / Botnet,https://github.com/projectdiscovery/katana,katana
+542,Scanner / Vulnerability Assessment,https://github.com/projectdiscovery/naabu,naabu
+543,Scanner / Vulnerability Assessment,https://github.com/projectdiscovery/nuclei,nuclei
+544,Recon / OSINT,https://github.com/projectdiscovery/subfinder,subfinder
+545,Defense Evasion / AV-EDR Bypass,https://github.com/proxifly/free-proxy-list,free-proxy-list
+546,Browser Automation / Scraping,https://github.com/psf/requests-html,requests-html
+547,Android,https://github.com/psychohackers/PhantomDroid,PhantomDroid
+548,Other / Uncategorized Security Tools,https://github.com/psyray/oasis,oasis
+549,Radio Hacking,https://github.com/ptrkrysik/gr-gsm,gr-gsm
+550,Other / Uncategorized Security Tools,https://github.com/public-apis/public-apis,public-apis
+551,Browser Automation / Scraping,https://github.com/puppeteer/puppeteer,puppeteer
+552,Scanner / Vulnerability Assessment,https://github.com/pwnfuzz/diffrays,diffrays
+553,Browser Automation / Scraping,https://github.com/python-scraping/parse-hub,parse-hub
+554,Recon / OSINT,https://github.com/qeeqbox/social-analyzer,social-analyzer
+555,Other / Uncategorized Security Tools,https://github.com/qsecure-labs/DeadMatter,DeadMatter
+556,RAT / C2 / Botnet,https://github.com/quantumcore/paradoxiaRAT,paradoxiaRAT
+557,Scanner / Vulnerability Assessment,https://github.com/quay/clair,clair
+558,RAT / C2 / Botnet,https://github.com/qwqdanchun/DcRat,DcRat
+559,Network / WiFi,https://github.com/r-a-w/DriveShake,DriveShake
+560,Payload / Exploit Frameworks,https://github.com/r00t-3xp10it/venom,venom
+561,RAT / C2 / Botnet,https://github.com/r00t-tsai/TaoRAT,TaoRAT
+562,Scanner / Vulnerability Assessment,https://github.com/r0oth3x49/ghauri,ghauri
+563,Android,https://github.com/rafosw/APKdevastate,APKdevastate
+564,Android,https://github.com/rafosw/APKdevastate-cli,APKdevastate-cli
+565,Other / Uncategorized Security Tools,https://github.com/rainfantry/22nd-survey-division,22nd-survey-division
+566,Payload / Exploit Frameworks,https://github.com/rapid7/metasploit-framework,metasploit-framework
+567,Other / Uncategorized Security Tools,https://github.com/razexgod/44CALIBER,44CALIBER
+568,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/redasm-dev/redasm,redasm
+569,Other / Uncategorized Security Tools,https://github.com/redcaller/voice-goat,voice-goat
+570,Scanner / Vulnerability Assessment,https://github.com/redtoolskobe/scaninfo,scaninfo
+571,AI-Powered Tools,https://github.com/requie/AI-Red-Teaming-Guide,AI-Red-Teaming-Guide
+572,Password Spray,https://github.com/ricardojoserf/AutoPtT,AutoPtT
+573,RAT / C2 / Botnet,https://github.com/ricardojoserf/BOF_Files,BOF_Files
+574,Stealer / Keylogger / Grabber,https://github.com/ricardojoserf/TrickDump,TrickDump
+575,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/rizinorg/cutter,cutter
+576,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/rizinorg/rizin,rizin
+577,Scanner / Vulnerability Assessment,https://github.com/robertdavidgraham/masscan,masscan
+578,Recon / OSINT,https://github.com/rohitcoder/hawk-eye,hawk-eye
+579,Scanner / Vulnerability Assessment,https://github.com/ron190/jsql-injection,jsql-injection
+580,Stealer / Keylogger / Grabber,https://github.com/rpp0/lora-dump,lora-dump
+581,Phishing / Initial Access,https://github.com/rsmusllp/king-phisher,king-phisher
+582,Payload / Exploit Frameworks,https://github.com/rust-memo/csrf-poc-generator,csrf-poc-generator
+583,RAT / C2 / Botnet,https://github.com/ryanq47/CS-EXTC2-ICMP,CS-EXTC2-ICMP
+584,RAT / C2 / Botnet,https://github.com/s0ld13rr/claude-code-backdoor,claude-code-backdoor
+585,Web Shell / Reverse Shell,https://github.com/sag-asab/Bypass-Webshell,Bypass-Webshell
+586,Stealer / Keylogger / Grabber,https://github.com/saintdaddy/Vare-Stealer,Vare-Stealer
+587,Other / Uncategorized Security Tools,https://github.com/samogod/tornado,tornado
+588,Defense Evasion / AV-EDR Bypass,https://github.com/sarperavci/CloudflareBypassForScraping,CloudflareBypassForScraping
+589,Password / Credential Attacks,https://github.com/saurabhwadekar/pycrack,pycrack
+590,Phishing / Initial Access,https://github.com/savio-code/ghost-phisher,ghost-phisher
+591,Recon / OSINT,https://github.com/scf13/ghostscan,ghostscan
+592,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/scorelab/OpenMF,OpenMF
+593,Browser Automation / Scraping,https://github.com/scrapinghub/splash,splash
+594,Browser Automation / Scraping,https://github.com/scrapy/scrapy,scrapy
+595,Phishing / Initial Access,https://github.com/seanthegeek/phishforall,phishforall
+596,AI-Powered Tools,https://github.com/securelayer7/PROMPTPurify,PROMPTPurify
+597,Network / WiFi,https://github.com/securing/gattacker,gattacker
+598,Scanner / Vulnerability Assessment,https://github.com/selimwdev/WAPTLab,WAPTLab
+599,Other / Uncategorized Security Tools,https://github.com/semaphoreci/benchmarks,benchmarks
+600,Red Team Tools,https://github.com/senderend/ghostsurf,ghostsurf
+601,Recon / OSINT,https://github.com/sherlock-project/sherlock,sherlock
+602,Scanner / Vulnerability Assessment,https://github.com/shuvonsec/claude-bug-bounty,claude-bug-bounty
+603,Other / Uncategorized Security Tools,https://github.com/simplifaisoul/?fbclid=IwY2xjawT8DilwZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHv2axkWz61T8u2dZqEG9Jc5zigz8sazK3JoDwQMDRaZTYyQ0mANkyvFlPSfd_aem_ejWs2iQwbIenUNac_IJllg,?fbclid=IwY2xjawT8DilwZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHv2axkWz61T8u2dZqEG9Jc5zigz8sazK3JoDwQMDRaZTYyQ0mANkyvFlPSfd_aem_ejWs2iQwbIenUNac_IJllg
+604,Scanner / Vulnerability Assessment,https://github.com/six2dez/burp-ai-agent,burp-ai-agent
+605,Anonymity / Tor / VPN,https://github.com/skizap/dos-over-tor,dos-over-tor
+606,Recon / OSINT,https://github.com/smicallef/spiderfoot,spiderfoot
+607,RAT / C2 / Botnet,https://github.com/soheil-01/coff_loader,coff_loader
+608,General Hacking Tools,https://github.com/sooryathejas/METATRON,METATRON
+609,Recon / OSINT,https://github.com/soxoj/maigret,maigret
+610,Network / WiFi,https://github.com/soxrok2212/PSKracker,PSKracker
+611,AI-Powered Tools,https://github.com/splx-ai/agentic-radar,agentic-radar
+612,Scanner / Vulnerability Assessment,https://github.com/sqlmapproject/sqlmap,sqlmap
+613,Payload / Exploit Frameworks,https://github.com/ssooking/msfvenom-gui,msfvenom-gui
+614,Scanner / Vulnerability Assessment,https://github.com/stamparm/DSSS,DSSS
+615,RAT / C2 / Botnet,https://github.com/steve-m/kalibrate-rtl,kalibrate-rtl
+616,Other / Uncategorized Security Tools,https://github.com/strapi/strapi,strapi
+617,General Hacking Tools,https://github.com/sudosuraj/Bounty-VPS,Bounty-VPS
+618,Scanner / Vulnerability Assessment,https://github.com/sullo/nikto,nikto
+619,Android,https://github.com/sundaysec/Android-Exploits,Android-Exploits
+620,Recon / OSINT,https://github.com/sundowndev/phoneinfoga,phoneinfoga
+621,Payload / Exploit Frameworks,https://github.com/synacktiv/Livepyre,Livepyre
+622,Phishing / Initial Access,https://github.com/technowlogy/spookphish,spookphish
+623,Payload / Exploit Frameworks,https://github.com/terjanq/Tiny-XSS-Payloads,Tiny-XSS-Payloads
+624,USB / Hardware Tools,https://github.com/thecmdguy/Ducky,Ducky
+625,Data Breach / Leak Search,https://github.com/thehappydinoa/DarkSearch,DarkSearch
+626,Phishing / Initial Access,https://github.com/thelinuxchoice/PhishX,PhishX
+627,Recon / OSINT,https://github.com/thelinuxchoice/blackeye,blackeye
+628,Phishing / Initial Access,https://github.com/thewhiteh4t/seeker,seeker
+629,Browser Automation / Scraping,https://github.com/thomas-park/webcrawler,webcrawler
+630,Payload / Exploit Frameworks,https://github.com/threat9/routersploit,routersploit
+631,Payload / Exploit Frameworks,https://github.com/tlsbollei/KittyLoader,KittyLoader
+632,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/to1018rose/A-large-collection-of-Trojan,A-large-collection-of-Trojan
+633,Recon / OSINT,https://github.com/tomnomnom/assetfinder,assetfinder
+634,Recon / OSINT,https://github.com/tracelabs/tlosint-live,tlosint-live
+635,Payload / Exploit Frameworks,https://github.com/trustedsec/ELFLoader,ELFLoader
+636,Phishing / Initial Access,https://github.com/trustedsec/social-engineer-toolkit,social-engineer-toolkit
+637,Network / WiFi,https://github.com/trycatchhcf/BLEAH,BLEAH
+638,RAT / C2 / Botnet,https://github.com/umutcamliyurt/PingRAT,PingRAT
+639,Stealer / Keylogger / Grabber,https://github.com/umutcamliyurt/Subhunter,Subhunter
+640,DDoS / Bombing Tools,https://github.com/un1cum/Beast_Bomber,Beast_Bomber
+641,Scanner / Vulnerability Assessment,https://github.com/urbanadventurer/WhatWeb,WhatWeb
+642,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/usestrix/strix,strix
+643,Android,https://github.com/utsanjan/Tsunami-Bomber-Android,Tsunami-Bomber-Android
+644,Scanner / Vulnerability Assessment,https://github.com/v-byte-cpu/sx,sx
+645,Email Utilities,https://github.com/v4d1/SpoofThatMail,SpoofThatMail
+646,Scanner / Vulnerability Assessment,https://github.com/veo/vscan,vscan
+647,Defense Evasion / AV-EDR Bypass,https://github.com/vincentcox/bypass-firewalls-by-DNS-history,bypass-firewalls-by-DNS-history
+648,Network / WiFi,https://github.com/virtualabs/btlejack,btlejack
+649,Data Breach / Leak Search,https://github.com/vlall/Darksearch,Darksearch
+650,Scanner / Vulnerability Assessment,https://github.com/wapiti-scanner/wapiti,wapiti
+651,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),https://github.com/web-harvest/webmagic,webmagic
+652,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/weirdmachine64/GhidraGPT,GhidraGPT
+653,Payload / Exploit Frameworks,https://github.com/wetw0rk/sickle-pdk,sickle-pdk
+654,Other / Uncategorized Security Tools,https://github.com/wez/wezterm,wezterm
+655,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),https://github.com/whoami-juruo/InjectTools,InjectTools
+656,Network / WiFi,https://github.com/wi-fi-analyzer/eaphammer,eaphammer
+657,Phishing / Initial Access,https://github.com/wifiphisher/wifiphisher,wifiphisher
+658,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/wtsxDev/reverse-engineering,reverse-engineering
+659,Defense Evasion / AV-EDR Bypass,https://github.com/x64dbg/ScyllaHide,ScyllaHide
+660,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/x64dbg/x64dbg,x64dbg
+661,Other / Uncategorized Security Tools,https://github.com/x86byte/RE-MA-Roadmap,RE-MA-Roadmap
+662,Network / WiFi,https://github.com/xdavidhu/mitmAP,mitmAP
+663,Stealer / Keylogger / Grabber,https://github.com/xpierroz/WhatsappStealer,WhatsappStealer
+664,USB / Hardware Tools,https://github.com/xyse/AutoHackingUsb,AutoHackingUsb
+665,Scanner / Vulnerability Assessment,https://github.com/yashab-cyber/nmap-ai,nmap-ai
+666,Browser Automation / Scraping,https://github.com/yasserg/crawler4j,crawler4j
+667,Android,https://github.com/ynsmroztas/AndroHunter,AndroHunter
+668,Password / Credential Attacks,https://github.com/z0m31en7/deauthalyzer,deauthalyzer
+669,Malware Analysis / Sandbox / Forensics / Reverse Engineering,https://github.com/zahidaz/jezail,jezail
+670,RAT / C2 / Botnet,https://github.com/zalexdev/strykerapp,strykerapp
+671,Scanner / Vulnerability Assessment,https://github.com/zan8in/afrog,afrog
+672,Scanner / Vulnerability Assessment,https://github.com/zaproxy/zaproxy,zaproxy
+673,CTF Tools,https://github.com/zardus/ctf-tools,ctf-tools
+674,Defense Evasion / AV-EDR Bypass,https://github.com/zero2504/EDR-GhostLocker,EDR-GhostLocker
+675,Payload / Exploit Frameworks,https://github.com/zerosum0x0/koadic,koadic
+676,Network / WiFi,https://github.com/zflemingg1/WiFi-Jammer,WiFi-Jammer
+677,Stealer / Keylogger / Grabber,https://github.com/zh54321/SharePointDumper,SharePointDumper
+678,Scanner / Vulnerability Assessment,https://gobies.org/,
+679,Other / Uncategorized Security Tools,https://greatscottgadgets.com/hackrf/,
+680,Other / Uncategorized Security Tools,https://gtfoargs.github.io/,
+681,Payload / Exploit Frameworks,https://gtfobins.github.io/,
+682,Other / Uncategorized Security Tools,https://hackerone.com/hacktivity,hacktivity
+683,PHP Web Tools,https://hackforums.net/showthread.php?tid=6276795,showthread.php?tid=6276795
+684,PHP Web Tools,https://hackforums.net/showthread.php?tid=6286334,showthread.php?tid=6286334
+685,PHP Web Tools,https://hackforums.net/showthread.php?tid=6288583,showthread.php?tid=6288583
+686,PHP Web Tools,https://hackforums.net/showthread.php?tid=6298815,showthread.php?tid=6298815
+687,PHP Web Tools,https://hackforums.net/showthread.php?tid=6310936,showthread.php?tid=6310936
+688,Other / Uncategorized Security Tools,https://hackingthe.cloud/,
+689,Other / Uncategorized Security Tools,https://holidayhackchallenge.com/,
+690,Recon / OSINT,https://hunter.io/,
+691,Recon / OSINT,https://intelx.io/,
+692,AI-Powered Tools,https://jan.ai,jan.ai
+693,AI-Powered Tools,https://lmstudio.ai/,
+694,Defense Evasion / AV-EDR Bypass,https://lnkd.in/e223PbqZ,e223PbqZ
+695,Password / Credential Attacks,https://lnkd.in/e3CTez5A,e3CTez5A
+696,Recon / OSINT,https://lnkd.in/e7V569N5,e7V569N5
+697,Defense Evasion / AV-EDR Bypass,https://lnkd.in/e8g8zYFT,e8g8zYFT
+698,Password / Credential Attacks,https://lnkd.in/eA28n9FT,eA28n9FT
+699,Password / Credential Attacks,https://lnkd.in/eBSAPz5z,eBSAPz5z
+700,Phishing / Initial Access,https://lnkd.in/eJwCx-Ga,eJwCx-Ga
+701,Password / Credential Attacks,https://lnkd.in/eJx5Ugu5,eJx5Ugu5
+702,Cloud Security,https://lnkd.in/ePHDeGZv,ePHDeGZv
+703,Phishing / Initial Access,https://lnkd.in/eRDPvwUg,eRDPvwUg
+704,Privilege Escalation,https://lnkd.in/eWA66akh,eWA66akh
+705,Privilege Escalation,https://lnkd.in/eZfYMSMX,eZfYMSMX
+706,Phishing / Initial Access,https://lnkd.in/ea26dfNg,ea26dfNg
+707,Recon / OSINT,https://lnkd.in/ebbcj6Rm,ebbcj6Rm
+708,Recon / OSINT,https://lnkd.in/ebvRfBNy,ebvRfBNy
+709,Phishing / Initial Access,https://lnkd.in/eds-dR5C,eds-dR5C
+710,Recon / OSINT,https://lnkd.in/edwaXFjS,edwaXFjS
+711,RAT / C2 / Botnet,https://lnkd.in/eeZGbYMs,eeZGbYMs
+712,Password / Credential Attacks,https://lnkd.in/eeb5b6Tz,eeb5b6Tz
+713,Defense Evasion / AV-EDR Bypass,https://lnkd.in/ef5wCD4y,ef5wCD4y
+714,RAT / C2 / Botnet,https://lnkd.in/efmh2t3g,efmh2t3g
+715,RAT / C2 / Botnet,https://lnkd.in/egAPa8gY,egAPa8gY
+716,Privilege Escalation,https://lnkd.in/eq53PXcJ,eq53PXcJ
+717,RAT / C2 / Botnet,https://lnkd.in/eqSJUDji,eqSJUDji
+718,Payload Delivery,https://lnkd.in/eqecM7de,eqecM7de
+719,Payload Delivery,https://lnkd.in/etCCYi8y,etCCYi8y
+720,Password / Credential Attacks,https://lnkd.in/etEGfvJK,etEGfvJK
+721,Privilege Escalation,https://lnkd.in/etR2Pe_n,etR2Pe_n
+722,RAT / C2 / Botnet,https://lnkd.in/ewN9Nday,ewN9Nday
+723,Recon / OSINT,https://lnkd.in/g3DeG6YT,g3DeG6YT
+724,RAT / C2 / Botnet,https://lnkd.in/gEFp2iym,gEFp2iym
+725,Password / Credential Attacks,https://lnkd.in/gHgcbjgV,gHgcbjgV
+726,Password / Credential Attacks,https://lnkd.in/gZVuQYiv,gZVuQYiv
+727,Phishing / Initial Access,https://lnkd.in/gcaxV6fR,gcaxV6fR
+728,Privilege Escalation,https://lnkd.in/gjziyG8q,gjziyG8q
+729,RAT / C2 / Botnet,https://lnkd.in/gnCGwfWk,gnCGwfWk
+730,Defense Evasion / AV-EDR Bypass,https://lnkd.in/gquyGFm5,gquyGFm5
+731,Password / Credential Attacks,https://lnkd.in/gtMEDVuS,gtMEDVuS
+732,Scanner / Vulnerability Assessment,https://lnkd.in/gu5wxzf6,gu5wxzf6
+733,Password / Credential Attacks,https://lnkd.in/guWj4TYv,guWj4TYv
+734,Payload / Exploit Frameworks,https://lolbas-project.github.io/,
+735,Other / Uncategorized Security Tools,https://malwarewatch.org/projects.html,projects.html
+736,Other / Uncategorized Security Tools,https://nautilus.institute/,
+737,Scanner / Vulnerability Assessment,https://nmap.org/,
+738,Anonymity / Tor / VPN,https://onionscan.org/,
+739,Radio Hacking,https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr,Rtl-sdr
+740,Other / Uncategorized Security Tools,https://overthewire.org/wargames/,
+741,Payload / Exploit Frameworks,https://packetstormsecurity.com/,
+742,Recon / OSINT,https://phonebook.cz/,
+743,Other / Uncategorized Security Tools,https://picoctf.org/,
+744,Other / Uncategorized Security Tools,https://plaidctf.com/,
+745,Network / WiFi,https://play.google.com/store/apps/details?id=com.aconno.blesniffer,details?id=com.aconno.blesniffer
+746,Other / Uncategorized Security Tools,https://play.google.com/store/apps/details?id=com.cafelabs.curlme,details?id=com.cafelabs.curlme
+747,Network / WiFi,https://play.google.com/store/apps/details?id=com.eakteam.networkmanager.free,details?id=com.eakteam.networkmanager.free
+748,Android,https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo,details?id=com.evbadroid.wicapdemo
+749,Recon / OSINT,https://play.google.com/store/apps/details?id=com.iam.googledork,details?id=com.iam.googledork
+750,Scanner / Vulnerability Assessment,https://play.google.com/store/apps/details?id=com.knabl.iotsecurityscanner,details?id=com.knabl.iotsecurityscanner
+751,Android,https://play.google.com/store/apps/details?id=com.overlook.android.fing,details?id=com.overlook.android.fing
+752,Other / Uncategorized Security Tools,https://play.google.com/store/apps/details?id=com.pentestkit,details?id=com.pentestkit
+753,Network / WiFi,https://play.google.com/store/apps/details?id=com.tester.wpswpatester,details?id=com.tester.wpswpatester
+754,Other / Uncategorized Security Tools,https://play.google.com/store/apps/details?id=com.themausoft.wpsapp,details?id=com.themausoft.wpsapp
+755,Scanner / Vulnerability Assessment,https://play.google.com/store/apps/details?id=com.vulners,details?id=com.vulners
+756,Recon / OSINT,https://play.google.com/store/apps/details?id=io.shodan.app,details?id=io.shodan.app
+757,Android,https://play.google.com/store/apps/details?id=net.wigle.wigleandroid,details?id=net.wigle.wigleandroid
+758,Android,https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp,details?id=no.nordicsemi.android.mcp
+759,Scanner / Vulnerability Assessment,https://portswigger.net/burp,burp
+760,Recon / OSINT,https://reacher.email/,
+761,Recon / OSINT,https://rocketreach.co/,
+762,Other / Uncategorized Security Tools,https://ructf.org/,
+763,Recon / OSINT,https://search.censys.io,search.censys.io
+764,Payload / Exploit Frameworks,https://shell-storm.org/shellcode/index.html,index.html
+765,Payload / Exploit Frameworks,https://sploitus.com/,
+766,Other / Uncategorized Security Tools,https://store.nethunter.com/en/packages/whid.usb.injector/,
+767,Other / Uncategorized Security Tools,https://store.nethunter.com/packages/com.mayank.rucky/,
+768,Other / Uncategorized Security Tools,https://strykerdefence.com/,
+769,Payload / Exploit Frameworks,https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/,
+770,Recon / OSINT,https://synapsint.com/,
+771,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),https://t.co/9PVwrFlILp,9PVwrFlILp
+772,Other / Uncategorized Security Tools,https://t.co/9pBW07i6Ha,9pBW07i6Ha
+773,Web Exploitation Payloads (XSS/SQLi/SSRF/etc.),https://t.co/SNuJiSXXSt,SNuJiSXXSt
+774,Other / Uncategorized Security Tools,https://t.co/TdCJlvQTnO,TdCJlvQTnO
+775,Anonymity / Tor / VPN,https://tails.boum.org/,
+776,Recon / OSINT,https://thatsthem.com/reverse-email-lookup,reverse-email-lookup
+777,Other / Uncategorized Security Tools,https://tomba.io/,
+778,Recon / OSINT,https://tools.emailhippo.com/,
+779,CTF Tools,https://trailofbits.github.io/ctf/,
+780,Recon / OSINT,https://verify-email.org/,
+781,Payload / Exploit Frameworks,https://vulmon.com/,
+782,CMS / Framework Identification,https://whatcms.org/,
+783,Recon / OSINT,https://www.email-format.com/,
+784,Recon / OSINT,https://www.emailsherlock.com/,
+785,Email Utilities,https://www.experte.com/email-finder,email-finder
+786,Payload / Exploit Frameworks,https://www.exploit-db.com/,
+787,Payload / Exploit Frameworks,https://www.exploit-db.com/google-hacking-database/,
+788,Payload / Exploit Frameworks,https://www.exploitalert.com/search-results.html,search-results.html
+789,Other / Uncategorized Security Tools,https://www.findemails.com/,
+790,Other / Uncategorized Security Tools,https://www.gnuradio.org/,
+791,Other / Uncategorized Security Tools,https://www.hackthissite.org/,
+792,Scanner / Vulnerability Assessment,https://www.kitploit.com/2017/05/whitewidow-sql-vulnerability-scanner.html,whitewidow-sql-vulnerability-scanner.html
+793,Other / Uncategorized Security Tools,https://www.loldrivers.io/,
+794,Recon / OSINT,https://www.melissa.com/v2/lookups/emailcheck/email/,
+795,AI-Powered Tools,https://www.nomic.ai/gpt4all,gpt4all
+796,Other / Uncategorized Security Tools,https://www.nuand.com/,
+797,Other / Uncategorized Security Tools,https://www.proxmox.com/,
+798,Payload / Exploit Frameworks,https://www.rapid7.com/db/,
+799,Web Shell / Reverse Shell,https://www.revshells.com/,
+800,Other / Uncategorized Security Tools,https://www.root-me.org/,
+801,Recon / OSINT,https://www.shodan.io,www.shodan.io
+802,Anonymity / Tor / VPN,https://www.torproject.org/,
+803,Recon / OSINT,https://www.voilanorbert.com/,
+804,CMS / Framework Identification,https://www.whatruns.com/,
+805,Other / Uncategorized Security Tools,https://www.youtube.com/@LiveOverflow,@LiveOverflow
+806,Other / Uncategorized Security Tools,https://www.youtube.com/@ippsec,@ippsec
+807,Other / Uncategorized Security Tools,https://www.zimperium.com/zanti-mobile-penetration-testing/,
+808,Data Breach / Leak Search,intelx.io,intelx.io
+809,Malware Analysis / Sandbox / Forensics / Reverse Engineering,ipvoid.com,ipvoid.com
+810,Data Breach / Leak Search,leakcheck.io,leakcheck.io
+811,Data Breach / Leak Search,leakpeek.com,leakpeek.com
+812,Other / Uncategorized Security Tools,lnkd.in/dDa8XgiM,dDa8XgiM
+813,Other / Uncategorized Security Tools,lnkd.in/dRVzVz87,dRVzVz87
+814,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/e4bkm5Eq,e4bkm5Eq
+815,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/e6r4mGv5,e6r4mGv5
+816,Other / Uncategorized Security Tools,lnkd.in/eMjdTB2t,eMjdTB2t
+817,Other / Uncategorized Security Tools,lnkd.in/eSNMn7au,eSNMn7au
+818,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/eWA9MnMY,eWA9MnMY
+819,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/ejBt5R7C,ejBt5R7C
+820,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/eweERpju,eweERpju
+821,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/g4qQGsHG,g4qQGsHG
+822,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/g7uWdC5q,g7uWdC5q
+823,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gB2gDZUd,gB2gDZUd
+824,Other / Uncategorized Security Tools,lnkd.in/gNqxtn4d,gNqxtn4d
+825,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gPqzyB7K,gPqzyB7K
+826,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gQZM_SJz,gQZM_SJz
+827,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gTJJ9GiC,gTJJ9GiC
+828,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gTjru2RQ,gTjru2RQ
+829,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gV4k5Gsw,gV4k5Gsw
+830,Other / Uncategorized Security Tools,lnkd.in/gZc8FYpU,gZc8FYpU
+831,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gaRGY8kB,gaRGY8kB
+832,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gdb3MQn2,gdb3MQn2
+833,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/ggTCTeAi,ggTCTeAi
+834,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gjA-QqdX,gjA-QqdX
+835,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gjYKbyge,gjYKbyge
+836,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gkZqkZrd,gkZqkZrd
+837,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gnJ9BvFN,gnJ9BvFN
+838,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gt8iyHE5,gt8iyHE5
+839,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gxV3PAnG,gxV3PAnG
+840,Malware Analysis / Sandbox / Forensics / Reverse Engineering,lnkd.in/gyN_diCQ,gyN_diCQ
+841,Malware Analysis / Sandbox / Forensics / Reverse Engineering,malwares.com,malwares.com
+842,Data Breach / Leak Search,monitor.firefox.com,monitor.firefox.com
+843,Malware Analysis / Sandbox / Forensics / Reverse Engineering,procdot.com,procdot.com
+844,Data Breach / Leak Search,scatteredsecrets.com,scatteredsecrets.com
+845,Data Breach / Leak Search,snusbase.com,snusbase.com
+846,Malware Analysis / Sandbox / Forensics / Reverse Engineering,sslbl.abuse.ch,sslbl.abuse.ch
+847,Malware Analysis / Sandbox / Forensics / Reverse Engineering,tria.ge,tria.ge
+848,Malware Analysis / Sandbox / Forensics / Reverse Engineering,urlhaus.abuse.ch,urlhaus.abuse.ch
+849,Malware Analysis / Sandbox / Forensics / Reverse Engineering,urlscan.io,urlscan.io
+850,Malware Analysis / Sandbox / Forensics / Reverse Engineering,urlvoid.com,urlvoid.com
+851,Malware Analysis / Sandbox / Forensics / Reverse Engineering,vmray.com,vmray.com
+852,Data Breach / Leak Search,weleakinfo.to,weleakinfo.to
+853,Data Breach / Leak Search,wikileaks.org,wikileaks.org
+854,Malware Analysis / Sandbox / Forensics / Reverse Engineering,yaraify.abuse.ch,yaraify.abuse.ch
