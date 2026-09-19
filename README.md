@@ -1,30 +1,6 @@
-# 🎯 সিকিউরিটি টুলস - সর্বোচ্চ ক্যাটাগরাইজড লিংক সংগ্রহ
+# লিংক সংগ্রহ
 
-**📊 মোট ইউনিক লিংক: 854**  
-**📁 মোট ক্যাটাগরি: 35**  
 
-## চূড়ান্ত স্ট্যাটিস্টিক্স
-
-| মেট্রিক | সংখ্যা | শতাংশ |
-|--------|--------|--------|
-| ✅ সফলভাবে ক্যাটাগরাইজড | 738 | **86.4%** |
-| ❓ অস্পষ্ট/জেনেরিক নাম | 116 | **13.6%** |
-
-## ক্যাটাগরাইজেশন পদ্ধতি (5 পর্যায়)
-
-1. ✓ GitHub README ও description থেকে স্বয়ংক্রিয় parsing  
-2. ✓ Repository নাম থেকে pattern matching  
-3. ✓ ডকুমেন্ট সেকশন হেডার বিশ্লেষণ  
-4. ✓ **Web search via 25+ targeted queries** (120+ repositories পরীক্ষা করা)  
-5. ✓ Aggressive keyword-based matching algorithm  
-
-## অস্পষ্ট থাকার মূল কারণ (116টি)
-
-- **Random/meaningless নাম** - rod, shannon, paqctl, Ning, yesitsme  
-- **No documentation** - কোনো README বা description নেই  
-- **Non-hacking tools** - হোস্টিং, API, framework, terminal  
-- **Corrupt/empty entries** - malformed links, empty names  
-- **Malicious URLs** - social engineering links, shortened URLs  
 
 ---
 
