@@ -663,6 +663,7 @@
 ## Browser Automation / Scraping (19)
 
 - https://github.com/BuilderIO/gpt-crawler
+- https://github.com/jo-inc/camofox-browser
 - https://github.com/MechanicalSoup/MechanicalSoup
 - https://github.com/NaiboWang/EasySpider
 - https://github.com/ScrapeGraphAI/Scrapegraph-ai
