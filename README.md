@@ -122,23 +122,22 @@
 
 ## Payload / Exploit Frameworks (73)
 
-- github.com/payloadbox/xss-payload-list
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection
 - http://github.com/V1li/H4X-Tools
 - http://www.xss-payloads.com/
 - https://0day.today/
