@@ -211,19 +211,19 @@
 
 ## Web Exploitation Payloads (XSS/SQLi/SSRF/etc.) (19)
 
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md
-- github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md
+- https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md
 - http://sniff.su/
 - https://github.com/dr34mhacks/xssnow
 - https://github.com/web-harvest/webmagic
@@ -494,14 +494,14 @@
 
 ## Malware Analysis / Sandbox / Forensics / Reverse Engineering (79)
 
-- Abuse.ch
-- abuseipdb.com
-- any.run
-- bazaar.abuse.ch
-- cuckoosandbox.org
-- docguard.io
-- filesec.io/
-- ghidra-sre.org
+- https://Abuse.ch
+- https://abuseipdb.com
+- https://any.run
+- https://bazaar.abuse.ch
+- https://cuckoosandbox.org
+- https://docguard.io
+- https://filesec.io/
+- https://ghidra-sre.org
 - https://github.com/APKLab/APKLab
 - https://github.com/Adityaraj6/VPLE
 - https://github.com/AkaTorich/HTTSDebugger
@@ -540,17 +540,17 @@
 - https://github.com/wtsxDev/reverse-engineering
 - https://github.com/x64dbg/x64dbg
 - https://github.com/zahidaz/jezail
-- ipvoid.com
-- lnkd.in/e4bkm5Eq
-- lnkd.in/e6r4mGv5
-- lnkd.in/eWA9MnMY
-- lnkd.in/ejBt5R7C
-- lnkd.in/eweERpju
-- lnkd.in/g4qQGsHG
-- lnkd.in/g7uWdC5q
-- lnkd.in/gB2gDZUd
-- lnkd.in/gPqzyB7K
-- lnkd.in/gQZM_SJz
+- https://ipvoid.com
+- https://urlfiltering.paloaltonetworks.com/
+- https://metadefender.com/
+- https://hex-rays.com/ida-pro
+- https://www.filescan.io/scan
+- https://www.virustotal.com/gui/home/upload
+- https://sitereview.bluecoat.com/#/
+- https://www.talosintelligence.com/
+- https://threatfox.abuse.ch/
+- https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+- https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview
 - lnkd.in/gTJJ9GiC
 - lnkd.in/gTjru2RQ
 - lnkd.in/gV4k5Gsw
