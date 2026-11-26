@@ -851,7 +851,7 @@
 
 ## Other / Uncategorized Security Tools (116)
 
-- github.com/guillaumemeyer/watermarks-remover
+- [github.com/guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 - http://finger.tidesec.com/
 - http://gqrx.dk/
 - http://pwnwiki.io/
@@ -961,10 +961,10 @@
 - https://www.youtube.com/@LiveOverflow
 - https://www.youtube.com/@ippsec
 - https://www.zimperium.com/zanti-mobile-penetration-testing/
-- lnkd.in/dDa8XgiM
-- lnkd.in/dRVzVz87
-- lnkd.in/eMjdTB2t
-- lnkd.in/eSNMn7au
-- lnkd.in/gNqxtn4d
-- lnkd.in/gZc8FYpU
+- https://www.quickhash-gui.org/
+- https://www.virustotal.com/gui/home/search
+- https://opentip.kaspersky.com/#search/
+- https://valkyrie.comodo.com/
+- https://gtfobins.org/
+- https://lolbas-project.github.io/
 
