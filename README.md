@@ -564,7 +564,7 @@
 - lnkd.in/gnJ9BvFN
 - lnkd.in/gt8iyHE5
 - lnkd.in/gxV3PAnG
-- lnkd.in/gyN_diCQ
+- https://lnkd.in/gyN_diCQ
 - malwares.com
 - procdot.com
 - sslbl.abuse.ch
@@ -636,10 +636,10 @@
 
 ## AI-Powered Tools (23)
 
-- Deepl.ai
-- Freedom.ai
-- Passgan.ai
-- Speechif.ai
+- https://Deepl.ai
+- https://Freedom.ai
+- https://Passgan.ai
+- https://Speechif.ai
 - https://github.com/0xSteph/pentest-ai
 - https://github.com/Armur-Ai/Pentest-Swarm-AI
 - https://github.com/Bin-Huang/chatbox
@@ -689,22 +689,22 @@
 
 ## Data Breach / Leak Search (16)
 
-- Leak.sx
-- breachalarm.com
-- cryptome.org
-- globaleaks.org
-- haveibeenpwned.com
+- https://Leak.sx
+- https://breachalarm.com
+- https://cryptome.org
+- https://globaleaks.org
+- https://haveibeenpwned.com
 - https://github.com/JoelGMSec/LeakSearch
 - https://github.com/thehappydinoa/DarkSearch
 - https://github.com/vlall/Darksearch
-- intelx.io
-- leakcheck.io
-- leakpeek.com
-- monitor.firefox.com
-- scatteredsecrets.com
-- snusbase.com
-- weleakinfo.to
-- wikileaks.org
+- https://intelx.io
+- https://leakcheck.io
+- https://leakpeek.com
+- https://monitor.firefox.com
+- https://scatteredsecrets.com
+- https://snusbase.com
+- https://weleakinfo.to
+- https://wikileaks.org
 
 ## CMS / Framework Identification (9)
 
@@ -851,7 +851,7 @@
 
 ## Other / Uncategorized Security Tools (116)
 
-- [github.com/guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+- https://github.com/guillaumemeyer/watermarks-remover
 - http://finger.tidesec.com/
 - http://gqrx.dk/
 - http://pwnwiki.io/
