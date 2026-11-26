@@ -195,11 +195,6 @@
 - https://www.exploitalert.com/search-results.html
 - https://www.rapid7.com/db/
 
-## Payload Delivery (2)
-
-- https://lnkd.in/eqecM7de
-- https://lnkd.in/etCCYi8y
-
 ## Web Shell / Reverse Shell (6)
 
 - https://github.com/Adrilaw/PhantomShell
@@ -371,11 +366,7 @@
 - https://github.com/tracelabs/tlosint-live
 - https://hunter.io/
 - https://intelx.io/
-- https://lnkd.in/e7V569N5
-- https://lnkd.in/ebbcj6Rm
-- https://lnkd.in/ebvRfBNy
-- https://lnkd.in/edwaXFjS
-- https://lnkd.in/g3DeG6YT
+- https://github.com/AutoRecon/AutoRecon
 - https://phonebook.cz/
 - https://play.google.com/store/apps/details?id=com.iam.googledork
 - https://play.google.com/store/apps/details?id=io.shodan.app
@@ -422,11 +413,7 @@
 - https://github.com/thewhiteh4t/seeker
 - https://github.com/trustedsec/social-engineer-toolkit
 - https://github.com/wifiphisher/wifiphisher
-- https://lnkd.in/eJwCx-Ga
-- https://lnkd.in/eRDPvwUg
-- https://lnkd.in/ea26dfNg
-- https://lnkd.in/eds-dR5C
-- https://lnkd.in/gcaxV6fR
+- https://github.com/t3l3machus/psudohash
 
 ## Password / Credential Attacks (18)
 
@@ -438,16 +425,10 @@
 - https://github.com/ob2configmaker/SilverBullet
 - https://github.com/saurabhwadekar/pycrack
 - https://github.com/z0m31en7/deauthalyzer
-- https://lnkd.in/e3CTez5A
-- https://lnkd.in/eA28n9FT
-- https://lnkd.in/eBSAPz5z
-- https://lnkd.in/eJx5Ugu5
-- https://lnkd.in/eeb5b6Tz
-- https://lnkd.in/etEGfvJK
-- https://lnkd.in/gHgcbjgV
-- https://lnkd.in/gZVuQYiv
-- https://lnkd.in/gtMEDVuS
-- https://lnkd.in/guWj4TYv
+- https://github.com/blacklanternsecurity/TREVORspray
+- https://github.com/coj337/TheSprayer
+- https://github.com/knavesec/CredMaster
+- https://github.com/dafthack/DomainPasswordSpray
 
 ## Privilege Escalation (11)
 
@@ -457,11 +438,7 @@
 - https://github.com/dazzyddos/PrivHound
 - https://github.com/incursi0n/GodPotatoBOF
 - https://github.com/klezVirus/DriverJack
-- https://lnkd.in/eWA66akh
-- https://lnkd.in/eZfYMSMX
-- https://lnkd.in/eq53PXcJ
-- https://lnkd.in/etR2Pe_n
-- https://lnkd.in/gjziyG8q
+- https://github.com/0x4xel/Bat-Potato
 
 ## Defense Evasion / AV-EDR Bypass (26)
 
@@ -487,10 +464,7 @@
 - https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 - https://github.com/x64dbg/ScyllaHide
 - https://github.com/zero2504/EDR-GhostLocker
-- https://lnkd.in/e223PbqZ
-- https://lnkd.in/e8g8zYFT
-- https://lnkd.in/ef5wCD4y
-- https://lnkd.in/gquyGFm5
+- https://github.com/t3l3machus/Villain
 
 ## Malware Analysis / Sandbox / Forensics / Reverse Engineering (79)
 
@@ -551,28 +525,28 @@
 - https://threatfox.abuse.ch/
 - https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 - https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview
-- lnkd.in/gTJJ9GiC
-- lnkd.in/gTjru2RQ
-- lnkd.in/gV4k5Gsw
-- lnkd.in/gaRGY8kB
-- lnkd.in/gdb3MQn2
-- lnkd.in/ggTCTeAi
-- lnkd.in/gjA-QqdX
-- lnkd.in/gjYKbyge
-- lnkd.in/gkZqkZrd
-- lnkd.in/gnJ9BvFN
-- lnkd.in/gt8iyHE5
-- lnkd.in/gxV3PAnG
-- https://lnkd.in/gyN_diCQ
-- malwares.com
-- procdot.com
-- sslbl.abuse.ch
-- tria.ge
-- urlhaus.abuse.ch
-- urlscan.io
-- urlvoid.com
-- vmray.com
-- yaraify.abuse.ch
+- https://www.joesandbox.com/#windows
+- https://www.binaryfortress.com/HashTools/
+- https://rada.re/n/radare2.html
+- https://hybrid-analysis.com/
+- https://www.kali.org/tools/radare2-cutter/
+- https://ntcore.com/explorer-suite/
+- https://www.browserling.com/
+- https://www.winitor.com/download
+- https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
+- https://www.telerik.com/download/fiddler
+- https://exchange.xforce.ibmcloud.com/
+- https://systeminformer.io/
+- https://feodotracker.abuse.ch/
+- https://malwares.com
+- https://procdot.com
+- https://sslbl.abuse.ch
+- https://tria.ge
+- https://urlhaus.abuse.ch
+- https://urlscan.io
+- https://urlvoid.com
+- https://vmray.com
+- https://yaraify.abuse.ch
 
 ## Network / WiFi (40)
 
@@ -628,10 +602,9 @@
 - https://tails.boum.org/
 - https://www.torproject.org/
 
-## Cloud Security (2)
+## Cloud Security (1)
 
 - https://github.com/m0rtem/CloudFail
-- https://lnkd.in/ePHDeGZv
 
 ## AI-Powered Tools (23)
 
@@ -926,7 +899,7 @@
 - https://github.com/redcaller/voice-goat
 - https://github.com/samogod/tornado
 - https://github.com/semaphoreci/benchmarks
-- https://github.com/simplifaisoul/?fbclid=IwY2xjawT8DilwZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHv2axkWz61T8u2dZqEG9Jc5zigz8sazK3JoDwQMDRaZTYyQ0mANkyvFlPSfd_aem_ejWs2iQwbIenUNac_IJllg
+- https://github.com/simplifaisoul?tab=repositories
 - https://github.com/strapi/strapi
 - https://github.com/wez/wezterm
 - https://github.com/x86byte/RE-MA-Roadmap
